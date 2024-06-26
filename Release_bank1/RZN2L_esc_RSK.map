@@ -1,0 +1,2831 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+                              ./rzn/fsp/src/r_sci_uart/r_sci_uart.o (__aeabi_ldivmod)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o (__aeabi_uldivmod)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-errno.o)
+                              ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o (__errno)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-errno.o) (_impure_ptr)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-malloc.o)
+                              ./src/r_fw_up_rz/r_fw_up_buf.o (malloc)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcmp.o)
+                              ./src/r_fw_up_rz/r_fw_up_rz.o (memcmp)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+                              ./src/ethercat/renesas/samplefoe.o (memcpy)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memset.o)
+                              ./src/r_fw_up_rz/r_fw_up_buf.o (memset)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-malloc.o) (_free_r)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-malloc.o) (_malloc_r)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-strlen.o)
+                              ./src/ethercat/beckhoff/Src/objdef.o (strlen)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-mlock.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-reent.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-sbrkr.o) (errno)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .data          0x00000000        0x0 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss           0x00000000        0x0 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .text          0x00000000        0x0 ./src/r_fw_up_rz/r_fw_up_rz.o
+ .data          0x00000000        0x0 ./src/r_fw_up_rz/r_fw_up_rz.o
+ .bss           0x00000000        0x0 ./src/r_fw_up_rz/r_fw_up_rz.o
+ .text.fw_up_check_addr_value
+                0x00000000       0x14 ./src/r_fw_up_rz/r_fw_up_rz.o
+ .text          0x00000000        0x0 ./src/ethercat/renesas/sampleappl.o
+ .data          0x00000000        0x0 ./src/ethercat/renesas/sampleappl.o
+ .bss           0x00000000        0x0 ./src/ethercat/renesas/sampleappl.o
+ .text          0x00000000        0x0 ./src/ethercat/renesas/samplefoe.o
+ .data          0x00000000        0x0 ./src/ethercat/renesas/samplefoe.o
+ .bss           0x00000000        0x0 ./src/ethercat/renesas/samplefoe.o
+ .rodata.aFilePassword
+                0x00000000        0x4 ./src/ethercat/renesas/samplefoe.o
+ .rodata.aFirmwareDownloadHeader
+                0x00000000        0xa ./src/ethercat/renesas/samplefoe.o
+ .text          0x00000000        0x0 ./src/ethercat/renesas/sampleios.o
+ .data          0x00000000        0x0 ./src/ethercat/renesas/sampleios.o
+ .bss           0x00000000        0x0 ./src/ethercat/renesas/sampleios.o
+ .text          0x00000000        0x0 ./src/ethercat/beckhoff/Src/bootmode.o
+ .data          0x00000000        0x0 ./src/ethercat/beckhoff/Src/bootmode.o
+ .bss           0x00000000        0x0 ./src/ethercat/beckhoff/Src/bootmode.o
+ .rodata.tbl_identify
+                0x00000000       0x10 ./src/ethercat/beckhoff/Src/bootmode.o
+ .text          0x00000000        0x0 ./src/ethercat/beckhoff/Src/coeappl.o
+ .data          0x00000000        0x0 ./src/ethercat/beckhoff/Src/coeappl.o
+ .bss           0x00000000        0x0 ./src/ethercat/beckhoff/Src/coeappl.o
+ .text.COE_ClearObjDictionary
+                0x00000000       0x20 ./src/ethercat/beckhoff/Src/coeappl.o
+ .text.AddObjectsToObjDictionary
+                0x00000000       0x28 ./src/ethercat/beckhoff/Src/coeappl.o
+ .text.COE_ObjDictionaryInit
+                0x00000000       0x5c ./src/ethercat/beckhoff/Src/coeappl.o
+ .text          0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .data          0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .bss           0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .text.HandleCycleTimeMeasurement
+                0x00000000       0x14 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .text.GetSystemTimeDelay
+                0x00000000       0x38 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .text.ESC_EepromWriteCRC
+                0x00000000       0x74 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .bss.bEcatWaitForInputUpdate
+                0x00000000        0x1 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .text          0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .data          0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .bss           0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .text          0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .data          0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .bss           0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .text          0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .data          0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .bss           0x00000000        0x0 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text.ResetALEventMask
+                0x00000000       0x24 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text.SetALEventMask
+                0x00000000       0x24 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text.UpdateEEPROMLoadedState
+                0x00000000       0x24 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text.CheckSmSettings
+                0x00000000       0x1c ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text.StopOutputHandler
+                0x00000000       0x18 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text.BackToInitTransition
+                0x00000000       0x10 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text.AL_ControlRes
+                0x00000000       0x14 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text.ECAT_StateChange
+                0x00000000      0x1f0 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text          0x00000000        0x0 ./src/ethercat/beckhoff/Src/foeappl.o
+ .data          0x00000000        0x0 ./src/ethercat/beckhoff/Src/foeappl.o
+ .bss           0x00000000        0x0 ./src/ethercat/beckhoff/Src/foeappl.o
+ .text          0x00000000        0x0 ./src/ethercat/beckhoff/Src/mailbox.o
+ .data          0x00000000        0x0 ./src/ethercat/beckhoff/Src/mailbox.o
+ .bss           0x00000000        0x0 ./src/ethercat/beckhoff/Src/mailbox.o
+ .text.PutInMbxQueue
+                0x00000000       0x30 ./src/ethercat/beckhoff/Src/mailbox.o
+ .text.GetOutOfMbxQueue
+                0x00000000       0x2c ./src/ethercat/beckhoff/Src/mailbox.o
+ .text          0x00000000        0x0 ./src/ethercat/beckhoff/Src/objdef.o
+ .data          0x00000000        0x0 ./src/ethercat/beckhoff/Src/objdef.o
+ .bss           0x00000000        0x0 ./src/ethercat/beckhoff/Src/objdef.o
+ .text.OBJ_CopyNumberToString
+                0x00000000       0x54 ./src/ethercat/beckhoff/Src/objdef.o
+ .text          0x00000000        0x0 ./src/ethercat/beckhoff/Src/sdoserv.o
+ .data          0x00000000        0x0 ./src/ethercat/beckhoff/Src/sdoserv.o
+ .bss           0x00000000        0x0 ./src/ethercat/beckhoff/Src/sdoserv.o
+ .text          0x00000000        0x0 ./src/hal_entry.o
+ .data          0x00000000        0x0 ./src/hal_entry.o
+ .bss           0x00000000        0x0 ./src/hal_entry.o
+ .text          0x00000000        0x0 ./rzn_gen/common_data.o
+ .data          0x00000000        0x0 ./rzn_gen/common_data.o
+ .bss           0x00000000        0x0 ./rzn_gen/common_data.o
+ .text.g_common_init
+                0x00000000        0x4 ./rzn_gen/common_data.o
+ .text          0x00000000        0x0 ./rzn_gen/hal_data.o
+ .data          0x00000000        0x0 ./rzn_gen/hal_data.o
+ .bss           0x00000000        0x0 ./rzn_gen/hal_data.o
+ .text.g_hal_init
+                0x00000000        0x4 ./rzn_gen/hal_data.o
+ .bss.g_uart0_ctrl
+                0x00000000       0x30 ./rzn_gen/hal_data.o
+ .data.g_uart0_baud_setting
+                0x00000000        0x4 ./rzn_gen/hal_data.o
+ .rodata.g_qspi0
+                0x00000000        0xc ./rzn_gen/hal_data.o
+ .rodata.g_uart0
+                0x00000000        0xc ./rzn_gen/hal_data.o
+ .rodata.g_uart0_cfg
+                0x00000000       0x28 ./rzn_gen/hal_data.o
+ .rodata.g_uart0_cfg_extend
+                0x00000000       0x10 ./rzn_gen/hal_data.o
+ .text          0x00000000        0x0 ./rzn_gen/main.o
+ .data          0x00000000        0x0 ./rzn_gen/main.o
+ .bss           0x00000000        0x0 ./rzn_gen/main.o
+ .text          0x00000000        0x0 ./rzn_gen/pin_data.o
+ .data          0x00000000        0x0 ./rzn_gen/pin_data.o
+ .bss           0x00000000        0x0 ./rzn_gen/pin_data.o
+ .text          0x00000000        0x0 ./rzn_gen/vector_data.o
+ .data          0x00000000        0x0 ./rzn_gen/vector_data.o
+ .bss           0x00000000        0x0 ./rzn_gen/vector_data.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .text.PDI_Isr  0x00000000        0x4 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .text.Sync0_Isr
+                0x00000000        0x4 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .text.Sync1_Isr
+                0x00000000        0x4 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .text.HW_IncTimer
+                0x00000000       0x14 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .text.HW_Init  0x00000000       0x1c ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .text.HW_Release
+                0x00000000        0x4 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .text.R_XSPI_QSPI_DirectWrite
+                0x00000000        0x4 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .text.R_XSPI_QSPI_DirectRead
+                0x00000000        0x4 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .text.R_XSPI_QSPI_BankSet
+                0x00000000        0x4 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .text.R_XSPI_QSPI_VersionGet
+                0x00000000        0xc ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .text.R_XSPI_QSPI_Close
+                0x00000000       0x44 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .text.R_XSPI_QSPI_XipEnter
+                0x00000000       0x64 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .text.R_XSPI_QSPI_XipExit
+                0x00000000       0x68 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .rodata.g_spi_flash_on_xspi_qspi
+                0x00000000       0x34 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Read
+                0x00000000        0xc ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Write
+                0x00000000       0x40 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_CallbackSet
+                0x00000000        0x4 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_BaudSet
+                0x00000000       0x60 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_InfoGet
+                0x00000000        0xc ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Abort
+                0x00000000       0x34 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_VersionGet
+                0x00000000        0xc ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Close
+                0x00000000      0x170 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Open
+                0x00000000      0x754 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_BaudCalculate
+                0x00000000      0x1ac ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .rodata.g_async_baud
+                0x00000000        0xd ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .rodata.g_div_coefficient
+                0x00000000       0x1a ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .rodata.g_uart_on_sci
+                0x00000000       0x24 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .text.ether_phy_convert_speed_duplex
+                0x00000000       0x48 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/r_cmt/r_cmt.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/r_cmt/r_cmt.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/r_cmt/r_cmt.o
+ .text.R_CMT_CounterSet
+                0x00000000       0x28 ./rzn/fsp/src/r_cmt/r_cmt.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .text.R_BSP_CacheInvalidate
+                0x00000000       0x5c ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .debug_info    0x00000000       0x93 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .debug_abbrev  0x00000000       0x44 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .debug_aranges
+                0x00000000       0x20 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .debug_ranges  0x00000000       0x10 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .debug_line    0x00000000       0x65 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .debug_str     0x00000000      0x23f ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .comment       0x00000000       0x4a ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .debug_frame   0x00000000       0x20 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .ARM.attributes
+                0x00000000       0x39 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .loader_param  0x00000000       0x4c ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .debug_info    0x00000000       0xbd ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .debug_abbrev  0x00000000       0x61 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .debug_aranges
+                0x00000000       0x18 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .debug_line    0x00000000      0x123 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .debug_str     0x00000000      0x257 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .comment       0x00000000       0x4a ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .ARM.attributes
+                0x00000000       0x39 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_set
+                0x00000000       0xa0 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.R_BSP_VersionGet
+                0x00000000        0xc ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.R_FSP_VersionGet
+                0x00000000       0x10 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.bsp_init_internal
+                0x00000000        0x4 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .rodata.g_bsp_system_clock_select_ckio
+                0x00000000       0x40 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .rodata.g_bsp_system_clock_select_xspi_clk
+                0x00000000       0x40 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .rodata.g_bsp_version
+                0x00000000        0x4 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .version       0x00000000       0x34 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .text.R_BSP_CPUReset
+                0x00000000       0x14 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .text.R_BSP_CPUResetRelease
+                0x00000000       0x10 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .text          0x00000000        0x0 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .data          0x00000000        0x0 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .bss           0x00000000        0x0 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text.R_BSP_WarmStart
+                0x00000000        0x4 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text          0x00000000        0x0 ./rzn/board/rzn2l_rsk/board_init.o
+ .data          0x00000000        0x0 ./rzn/board/rzn2l_rsk/board_init.o
+ .bss           0x00000000        0x0 ./rzn/board/rzn2l_rsk/board_init.o
+ .text.bsp_init
+                0x00000000        0x4 ./rzn/board/rzn2l_rsk/board_init.o
+ .debug_info    0x00000000       0xa4 ./rzn/board/rzn2l_rsk/board_init.o
+ .debug_abbrev  0x00000000       0x5c ./rzn/board/rzn2l_rsk/board_init.o
+ .debug_aranges
+                0x00000000       0x20 ./rzn/board/rzn2l_rsk/board_init.o
+ .debug_ranges  0x00000000       0x10 ./rzn/board/rzn2l_rsk/board_init.o
+ .debug_line    0x00000000       0x5c ./rzn/board/rzn2l_rsk/board_init.o
+ .debug_str     0x00000000      0x234 ./rzn/board/rzn2l_rsk/board_init.o
+ .comment       0x00000000       0x4a ./rzn/board/rzn2l_rsk/board_init.o
+ .debug_frame   0x00000000       0x20 ./rzn/board/rzn2l_rsk/board_init.o
+ .ARM.attributes
+                0x00000000       0x39 ./rzn/board/rzn2l_rsk/board_init.o
+ .text          0x00000000        0x0 ./rzn/board/rzn2l_rsk/board_leds.o
+ .data          0x00000000        0x0 ./rzn/board/rzn2l_rsk/board_leds.o
+ .bss           0x00000000        0x0 ./rzn/board/rzn2l_rsk/board_leds.o
+ .rodata.g_bsp_leds
+                0x00000000        0x8 ./rzn/board/rzn2l_rsk/board_leds.o
+ .rodata.g_bsp_prv_leds
+                0x00000000        0x8 ./rzn/board/rzn2l_rsk/board_leds.o
+ .debug_info    0x00000000      0x691 ./rzn/board/rzn2l_rsk/board_leds.o
+ .debug_abbrev  0x00000000       0xc4 ./rzn/board/rzn2l_rsk/board_leds.o
+ .debug_aranges
+                0x00000000       0x18 ./rzn/board/rzn2l_rsk/board_leds.o
+ .debug_line    0x00000000      0x22b ./rzn/board/rzn2l_rsk/board_leds.o
+ .debug_str     0x00000000     0x12f6 ./rzn/board/rzn2l_rsk/board_leds.o
+ .comment       0x00000000       0x4a ./rzn/board/rzn2l_rsk/board_leds.o
+ .ARM.attributes
+                0x00000000       0x39 ./rzn/board/rzn2l_rsk/board_leds.o
+ .text          0x00000000       0xa0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x00000000       0x44 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000000       0x19 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb8 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ATCM             0x00000000         0x00020000
+BTCM             0x00100000         0x00020000
+SYSTEM_RAM       0x10000000         0x00180000
+SYSTEM_RAM_MIRROR 0x30000000         0x00180000
+xSPI0_CS0_SPACE_MIRROR 0x40000000         0x04000000
+xSPI0_CS1_SPACE_MIRROR 0x44000000         0x04000000
+xSPI1_CS0_SPACE_MIRROR 0x48000000         0x04000000
+xSPI1_CS1_SPACE_MIRROR 0x4c000000         0x04000000
+CS0_SPACE_MIRROR 0x50000000         0x04000000
+CS2_SPACE_MIRROR 0x54000000         0x04000000
+CS3_SPACE_MIRROR 0x58000000         0x04000000
+CS5_SPACE_MIRROR 0x5c000000         0x04000000
+xSPI0_CS0_SPACE  0x60000000         0x04000000
+xSPI0_CS1_SPACE  0x64000000         0x04000000
+xSPI1_CS0_SPACE  0x68000000         0x04000000
+xSPI1_CS1_SPACE  0x6c000000         0x04000000
+CS0_SPACE        0x70000000         0x04000000
+CS2_SPACE        0x74000000         0x04000000
+CS3_SPACE        0x78000000         0x04000000
+CS5_SPACE        0x7c000000         0x04000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD ./src/r_fw_up_rz/r_fw_up_buf.o
+LOAD ./src/r_fw_up_rz/r_fw_up_rz.o
+LOAD ./src/ethercat/renesas/sampleappl.o
+LOAD ./src/ethercat/renesas/samplefoe.o
+LOAD ./src/ethercat/renesas/sampleios.o
+LOAD ./src/ethercat/beckhoff/Src/bootmode.o
+LOAD ./src/ethercat/beckhoff/Src/coeappl.o
+LOAD ./src/ethercat/beckhoff/Src/ecatappl.o
+LOAD ./src/ethercat/beckhoff/Src/ecatcoe.o
+LOAD ./src/ethercat/beckhoff/Src/ecatfoe.o
+LOAD ./src/ethercat/beckhoff/Src/ecatslv.o
+LOAD ./src/ethercat/beckhoff/Src/foeappl.o
+LOAD ./src/ethercat/beckhoff/Src/mailbox.o
+LOAD ./src/ethercat/beckhoff/Src/objdef.o
+LOAD ./src/ethercat/beckhoff/Src/sdoserv.o
+LOAD ./src/hal_entry.o
+LOAD ./rzn_gen/common_data.o
+LOAD ./rzn_gen/hal_data.o
+LOAD ./rzn_gen/main.o
+LOAD ./rzn_gen/pin_data.o
+LOAD ./rzn_gen/vector_data.o
+LOAD ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+LOAD ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+LOAD ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+LOAD ./rzn/fsp/src/r_ioport/r_ioport.o
+LOAD ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+LOAD ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+LOAD ./rzn/fsp/src/r_cmt/r_cmt.o
+LOAD ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_cache.o
+LOAD ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param.o
+LOAD ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+LOAD ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+LOAD ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+LOAD ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+LOAD ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+LOAD ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+LOAD ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+LOAD ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+LOAD ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+LOAD ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+LOAD ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+LOAD ./rzn/board/rzn2l_rsk/board_init.o
+LOAD ./rzn/board/rzn2l_rsk/board_leds.o
+END GROUP
+START GROUP
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libc_nano.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\librdimon_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libc_nano.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\librdimon_nano.a
+END GROUP
+
+.loader_param2  0x60200000       0x5c
+ *(.loader_param2)
+ .loader_param2
+                0x60200000       0x4c ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+                0x60200000                g_bsp_loader_param2
+ *(.identify)
+ .identify      0x6020004c       0x10 ./src/ethercat/beckhoff/Src/bootmode.o
+                0x6020004c                g_identify
+
+.flash_contents
+                0x6020005c     0xd470
+                0x6020005c                _mloader_text = .
+                0x6020165c                . = (. + (_loader_text_end - _loader_text_start))
+ *fill*         0x6020005c     0x1600 
+                0x6020165c                _mloader_data = .
+                0x6020236c                . = (. + (_loader_data_end - _loader_data_start))
+ *fill*         0x6020165c      0xd10 
+                0x6020236c                _mfvector = .
+                0x602023ac                . = (. + (_fvector_end - _fvector_start))
+ *fill*         0x6020236c       0x40 
+                0x602023ac                _mtext = .
+                0x6020ba3c                . = (. + (_text_end - _text_start))
+ *fill*         0x602023ac     0x9690 
+                0x6020ba3c                _mdata = .
+                0x6020d4cc                . = (. + (_data_end - _data_start))
+ *fill*         0x6020ba3c     0x1a90 
+                0x6020d4cc                flash_contents_end = .
+
+.loader_text    0x00102000     0x1600 load address 0x6020005c
+                0x00102000                _loader_text_start = .
+ *(.loader_text)
+ .loader_text   0x00102000       0x5c ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00102000                system_init
+ */fsp/src/bsp/cmsis/Device/RENESAS/Source/*.o(.text*)
+ .text.Default_Handler
+                0x0010205c        0x4 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x0010205c                Abort_Handler
+                0x0010205c                Reset_Handler
+                0x0010205c                Default_Handler
+                0x0010205c                Prefetch_Handler
+                0x0010205c                Reserved_Handler
+                0x0010205c                SVC_Handler
+                0x0010205c                FIQ_Handler
+                0x0010205c                Undefined_Handler
+ .text.stack_init
+                0x00102060       0xe8 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00102060                stack_init
+ .text.mpu_cache_init
+                0x00102148      0x278 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00102148                mpu_cache_init
+ .text.bsp_mpu_init
+                0x001023c0       0x1c ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x001023c0                bsp_mpu_init
+ .text.IRQ_Handler
+                0x001023dc       0x78 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x001023dc                IRQ_Handler
+ .text.bsp_m_mpu_init
+                0x00102454      0x1c0 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00102454                bsp_m_mpu_init
+ .text.bsp_global_system_counter_init
+                0x00102614       0x28 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00102614                bsp_global_system_counter_init
+ .text.bsp_copy_to_atcm
+                0x0010263c       0x8c ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x0010263c                bsp_copy_to_atcm
+ .text.bsp_application_bss_init
+                0x001026c8       0x70 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x001026c8                bsp_application_bss_init
+ .text.bsp_tfu_init
+                0x00102738       0x48 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00102738                bsp_tfu_init
+ .text.bsp_static_constructor_init
+                0x00102780       0x54 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00102780                bsp_static_constructor_init
+ */fsp/src/bsp/mcu/all/bsp_clocks.o(.text*)
+ .text.SystemCoreClockUpdate
+                0x001027d4       0x34 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x001027d4                SystemCoreClockUpdate
+ .text.bsp_clock_init
+                0x00102808      0x1f4 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x00102808                bsp_clock_init
+ */fsp/src/bsp/mcu/all/bsp_irq.o(.text*)
+ .text.bsp_irq_cfg
+                0x001029fc       0x5c ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x001029fc                bsp_irq_cfg
+ .text.bsp_common_interrupt_handler
+                0x00102a58       0x70 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x00102a58                bsp_common_interrupt_handler
+ */fsp/src/bsp/mcu/all/bsp_register_protection.o(.text*)
+ .text.R_BSP_RegisterProtectEnable
+                0x00102ac8       0x60 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x00102ac8                R_BSP_RegisterProtectEnable
+ .text.R_BSP_RegisterProtectDisable
+                0x00102b28       0x68 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x00102b28                R_BSP_RegisterProtectDisable
+ */fsp/src/r_ioport/r_ioport.o(.text*)
+ .text.R_IOPORT_Close
+                0x00102b90        0xc ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102b90                R_IOPORT_Close
+ .text.R_IOPORT_PinRead
+                0x00102b9c       0x38 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102b9c                R_IOPORT_PinRead
+ .text.R_IOPORT_PortRead
+                0x00102bd4       0x38 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102bd4                R_IOPORT_PortRead
+ .text.R_IOPORT_PortWrite
+                0x00102c0c       0x58 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102c0c                R_IOPORT_PortWrite
+ .text.R_IOPORT_PinWrite
+                0x00102c64       0x54 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102c64                R_IOPORT_PinWrite
+ .text.R_IOPORT_PortDirectionSet
+                0x00102cb8       0x70 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102cb8                R_IOPORT_PortDirectionSet
+ .text.R_IOPORT_PortEventInputRead
+                0x00102d28       0x38 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102d28                R_IOPORT_PortEventInputRead
+ .text.R_IOPORT_PinEventInputRead
+                0x00102d60       0x40 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102d60                R_IOPORT_PinEventInputRead
+ .text.R_IOPORT_VersionGet
+                0x00102da0        0xc ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102da0                R_IOPORT_VersionGet
+ .text.r_ioport_pin_set
+                0x00102dac      0x16c ./rzn/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinCfg
+                0x00102f18       0xa8 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102f18                R_IOPORT_PinCfg
+ .text.R_IOPORT_PinsCfg
+                0x00102fc0       0xbc ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00102fc0                R_IOPORT_PinsCfg
+ .text.R_IOPORT_PortEventOutputWrite
+                0x0010307c       0xbc ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x0010307c                R_IOPORT_PortEventOutputWrite
+ .text.R_IOPORT_Open
+                0x00103138      0x254 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x00103138                R_IOPORT_Open
+ .text.R_IOPORT_PinEventOutputWrite
+                0x0010338c       0xe0 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x0010338c                R_IOPORT_PinEventOutputWrite
+ *(.warm_start)
+                0x00103600                . = (. + (0x200 - ((. - _loader_text_start) % 0x200)))
+ *fill*         0x0010346c      0x194 
+                0x00103600                _loader_text_end = .
+
+.loader_data    0x00103600      0xd10 load address 0x6020165c
+                0x00103600                _loader_data_start = .
+                0x00103600                __loader_data_start = .
+ */fsp/src/bsp/cmsis/Device/RENESAS/Source/*.o(.data*)
+ */fsp/src/bsp/mcu/all/bsp_clocks.o(.data*)
+ */fsp/src/bsp/mcu/all/bsp_irq.o(.data*)
+ */fsp/src/bsp/mcu/all/bsp_register_protection.o(.data*)
+ */fsp/src/r_ioport/r_ioport.o(.data*)
+                0x00103600                __loader_data_end = .
+                0x00103600                __loader_bss_start = .
+ */fsp/src/bsp/cmsis/Device/RENESAS/Source/*.o(.bss*)
+ .bss.SystemCoreClock
+                0x00103600        0x4 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103600                SystemCoreClock
+ .bss.g_sgi_ppi_vector_table
+                0x00103604       0x80 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103604                g_sgi_ppi_vector_table
+ .bss.m_mpu0_endadd_cfg
+                0x00103684       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103684                m_mpu0_endadd_cfg
+ .bss.m_mpu0_stadd_cfg
+                0x001036a4       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x001036a4                m_mpu0_stadd_cfg
+ .bss.m_mpu1_endadd_cfg
+                0x001036c4       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x001036c4                m_mpu1_endadd_cfg
+ .bss.m_mpu1_stadd_cfg
+                0x001036e4       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x001036e4                m_mpu1_stadd_cfg
+ .bss.m_mpu2_endadd_cfg
+                0x00103704       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103704                m_mpu2_endadd_cfg
+ .bss.m_mpu2_stadd_cfg
+                0x00103724       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103724                m_mpu2_stadd_cfg
+ .bss.m_mpu3_endadd_cfg
+                0x00103744       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103744                m_mpu3_endadd_cfg
+ .bss.m_mpu3_stadd_cfg
+                0x00103764       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103764                m_mpu3_stadd_cfg
+ .bss.m_mpu4_endadd_cfg
+                0x00103784       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103784                m_mpu4_endadd_cfg
+ .bss.m_mpu4_stadd_cfg
+                0x001037a4       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x001037a4                m_mpu4_stadd_cfg
+ .bss.m_mpu6_endadd_cfg
+                0x001037c4       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x001037c4                m_mpu6_endadd_cfg
+ .bss.m_mpu6_stadd_cfg
+                0x001037e4       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x001037e4                m_mpu6_stadd_cfg
+ .bss.m_mpu7_endadd_cfg
+                0x00103804       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103804                m_mpu7_endadd_cfg
+ .bss.m_mpu7_stadd_cfg
+                0x00103824       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103824                m_mpu7_stadd_cfg
+ .bss.m_mpu8_endadd_cfg
+                0x00103844       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103844                m_mpu8_endadd_cfg
+ .bss.m_mpu8_stadd_cfg
+                0x00103864       0x20 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00103864                m_mpu8_stadd_cfg
+ */fsp/src/bsp/mcu/all/bsp_clocks.o(.bss*)
+ */fsp/src/bsp/mcu/all/bsp_irq.o(.bss*)
+ .bss.g_current_interrupt_num
+                0x00103884       0x40 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x00103884                g_current_interrupt_num
+ .bss.g_current_interrupt_pointer
+                0x001038c4        0x1 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x001038c4                g_current_interrupt_pointer
+ *fill*         0x001038c5        0x3 
+ .bss.gp_renesas_isr_context
+                0x001038c8      0xa40 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x001038c8                gp_renesas_isr_context
+ */fsp/src/bsp/mcu/all/bsp_register_protection.o(.bss*)
+ .bss.g_protect_counters
+                0x00104308        0x8 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ */fsp/src/r_ioport/r_ioport.o(.bss*)
+ */fsp/src/bsp/cmsis/Device/RENESAS/Source/*.o(COMMON)
+ */fsp/src/bsp/mcu/all/bsp_clocks.o(COMMON)
+ */fsp/src/bsp/mcu/all/bsp_irq.o(COMMON)
+ */fsp/src/bsp/mcu/all/bsp_register_protection.o(.COMMON)
+ */fsp/src/r_ioport/r_ioport.o(.COMMON)
+                0x00104310                __loader_bss_end = .
+                0x00104310                _loader_data_end = .
+
+.intvec         0x00000000       0x40 load address 0x6020236c
+                0x00000000                _fvector_start = .
+ *(.intvec)
+ .intvec        0x00000000       0x40 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00000000                __Vectors
+                0x00000040                _fvector_end = .
+
+.text           0x30000000     0x9688 load address 0x602023ac
+                0x30000000                _text_start = .
+ *(.text*)
+ .text.fw_up_ascii_to_hexbyte
+                0x30000000       0x74 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .text.fw_up_buf_init
+                0x30000074       0xd4 ./src/r_fw_up_rz/r_fw_up_buf.o
+                0x30000074                fw_up_buf_init
+ .text.fw_up_memory_init
+                0x30000148       0x1c ./src/r_fw_up_rz/r_fw_up_buf.o
+                0x30000148                fw_up_memory_init
+ .text.fw_up_put_mot_s
+                0x30000164      0x2ec ./src/r_fw_up_rz/r_fw_up_buf.o
+                0x30000164                fw_up_put_mot_s
+ .text.fw_up_get_binary
+                0x30000450      0x190 ./src/r_fw_up_rz/r_fw_up_buf.o
+                0x30000450                fw_up_get_binary
+ .text.fw_up_open
+                0x300005e0       0xfc ./src/r_fw_up_rz/r_fw_up_rz.o
+                0x300005e0                fw_up_open
+ .text.fw_up_close
+                0x300006dc       0x9c ./src/r_fw_up_rz/r_fw_up_rz.o
+                0x300006dc                fw_up_close
+ .text.analyze_and_write_data
+                0x30000778      0x140 ./src/r_fw_up_rz/r_fw_up_rz.o
+                0x30000778                analyze_and_write_data
+ .text.APPL_AckErrorInd
+                0x300008b8        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x300008b8                APPL_AckErrorInd
+ .text.APPL_StartMailboxHandler
+                0x300008bc        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x300008bc                APPL_StartMailboxHandler
+ .text.APPL_StopMailboxHandler
+                0x300008c0        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x300008c0                APPL_StopMailboxHandler
+ .text.APPL_StartInputHandler
+                0x300008c4        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x300008c4                APPL_StartInputHandler
+ .text.APPL_StopInputHandler
+                0x300008c8        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x300008c8                APPL_StopInputHandler
+ .text.APPL_StartOutputHandler
+                0x300008cc        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x300008cc                APPL_StartOutputHandler
+ .text.APPL_StopOutputHandler
+                0x300008d0        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x300008d0                APPL_StopOutputHandler
+ .text.APPL_GenerateMapping
+                0x300008d4      0x108 ./src/ethercat/renesas/sampleappl.o
+                0x300008d4                APPL_GenerateMapping
+ .text.APPL_InputMapping
+                0x300009dc       0x10 ./src/ethercat/renesas/sampleappl.o
+                0x300009dc                APPL_InputMapping
+ .text.APPL_OutputMapping
+                0x300009ec       0x10 ./src/ethercat/renesas/sampleappl.o
+                0x300009ec                APPL_OutputMapping
+ .text.APPL_SetLed
+                0x300009fc      0x308 ./src/ethercat/renesas/sampleappl.o
+                0x300009fc                APPL_SetLed
+ .text.APPL_GetDipSw
+                0x30000d04      0x1a4 ./src/ethercat/renesas/sampleappl.o
+                0x30000d04                APPL_GetDipSw
+ .text.APPL_Application
+                0x30000ea8       0x28 ./src/ethercat/renesas/sampleappl.o
+                0x30000ea8                APPL_Application
+ .text.APPL_GetDeviceID
+                0x30000ed0        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x30000ed0                APPL_GetDeviceID
+ .text.FoE_Read
+                0x30000ed4       0x88 ./src/ethercat/renesas/samplefoe.o
+                0x30000ed4                FoE_Read
+ .text.FoE_ReadData
+                0x30000f5c       0x3c ./src/ethercat/renesas/samplefoe.o
+                0x30000f5c                FoE_ReadData
+ .text.FoE_WriteData
+                0x30000f98       0x68 ./src/ethercat/renesas/samplefoe.o
+                0x30000f98                FoE_WriteData
+ .text.FoE_Write
+                0x30001000       0xa8 ./src/ethercat/renesas/samplefoe.o
+                0x30001000                FoE_Write
+ .text.BL_Start
+                0x300010a8        0x4 ./src/ethercat/beckhoff/Src/bootmode.o
+                0x300010a8                BL_Start
+ .text.BL_Stop  0x300010ac        0x4 ./src/ethercat/beckhoff/Src/bootmode.o
+                0x300010ac                BL_Stop
+ .text.BL_StartDownload
+                0x300010b0       0x48 ./src/ethercat/beckhoff/Src/bootmode.o
+                0x300010b0                BL_StartDownload
+ .text.BL_Data  0x300010f8      0x1e4 ./src/ethercat/beckhoff/Src/bootmode.o
+                0x300010f8                BL_Data
+ .text.BL_SetRebootFlag
+                0x300012dc        0xc ./src/ethercat/beckhoff/Src/bootmode.o
+                0x300012dc                BL_SetRebootFlag
+ .text.BL_CheckRebootFlag
+                0x300012e8        0xc ./src/ethercat/beckhoff/Src/bootmode.o
+                0x300012e8                BL_CheckRebootFlag
+ .text.BL_Reboot
+                0x300012f4       0x10 ./src/ethercat/beckhoff/Src/bootmode.o
+                0x300012f4                BL_Reboot
+ .text.BL_IsSectorErased
+                0x30001304       0x14 ./src/ethercat/beckhoff/Src/bootmode.o
+                0x30001304                BL_IsSectorErased
+ .text.BL_EraseSector
+                0x30001318       0x74 ./src/ethercat/beckhoff/Src/bootmode.o
+                0x30001318                BL_EraseSector
+ .text.COE_SyncTimeStamp
+                0x3000138c       0x7c ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000138c                COE_SyncTimeStamp
+ .text.Read0x10F8
+                0x30001408       0x40 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30001408                Read0x10F8
+ .text.COE_GetObjectDictionary
+                0x30001448        0xc ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30001448                COE_GetObjectDictionary
+ .text.COE_UpdateSyncErrorStatus
+                0x30001454       0x54 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30001454                COE_UpdateSyncErrorStatus
+ .text.COE_AddObjectToDic
+                0x300014a8       0x60 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x300014a8                COE_AddObjectToDic
+ .text.COE_RemoveDicEntry
+                0x30001508       0x3c ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30001508                COE_RemoveDicEntry
+ .text.COE_ObjInit
+                0x30001544      0x158 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30001544                COE_ObjInit
+ .text.COE_Main
+                0x3000169c       0xc0 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000169c                COE_Main
+ .text.HandleCycleTimeMeasurement.part.0
+                0x3000175c       0x98 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .text.PDO_InputMapping
+                0x300017f4       0x9c ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x300017f4                PDO_InputMapping
+ .text.PDO_OutputMapping
+                0x30001890       0xe4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x30001890                PDO_OutputMapping
+ .text.Sync1_Isr
+                0x30001974       0x5c ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x30001974                Sync1_Isr
+ .text.ECAT_SetLedIndication
+                0x300019d0      0x2a0 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x300019d0                ECAT_SetLedIndication
+ .text.ECAT_CheckTimer
+                0x30001c70       0x90 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x30001c70                ECAT_CheckTimer
+ .text.MainInit
+                0x30001d00       0xe4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x30001d00                MainInit
+ .text.ECAT_Application
+                0x30001de4       0x40 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x30001de4                ECAT_Application
+ .text.Sync0_Isr
+                0x30001e24      0x16c ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x30001e24                Sync0_Isr
+ .text.PDI_Isr  0x30001f90      0x1ec ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x30001f90                PDI_Isr
+ .text.MainLoop
+                0x3000217c      0x118 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000217c                MainLoop
+ .text.ESC_EepromAccess
+                0x30002294      0x174 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x30002294                ESC_EepromAccess
+ .text.COE_Init
+                0x30002408       0x18 ./src/ethercat/beckhoff/Src/ecatcoe.o
+                0x30002408                COE_Init
+ .text.COE_ServiceInd
+                0x30002420       0x28 ./src/ethercat/beckhoff/Src/ecatcoe.o
+                0x30002420                COE_ServiceInd
+ .text.COE_ContinueInd
+                0x30002448       0x50 ./src/ethercat/beckhoff/Src/ecatcoe.o
+                0x30002448                COE_ContinueInd
+ .text.FOE_Init
+                0x30002498       0x24 ./src/ethercat/beckhoff/Src/ecatfoe.o
+                0x30002498                FOE_Init
+ .text.FOE_ServiceInd
+                0x300024bc      0x33c ./src/ethercat/beckhoff/Src/ecatfoe.o
+                0x300024bc                FOE_ServiceInd
+ .text.FOE_ContinueInd
+                0x300027f8       0x1c ./src/ethercat/beckhoff/Src/ecatfoe.o
+                0x300027f8                FOE_ContinueInd
+ .text.CheckSmSettings.part.0
+                0x30002814      0x240 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text.GetSyncMan
+                0x30002a54       0x2c ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x30002a54                GetSyncMan
+ .text.DisableSyncManChannel
+                0x30002a80       0x34 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x30002a80                DisableSyncManChannel
+ .text.EnableSyncManChannel
+                0x30002ab4       0x34 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x30002ab4                EnableSyncManChannel
+ .text.StartInputHandler
+                0x30002ae8      0x7a0 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x30002ae8                StartInputHandler
+ .text.StartOutputHandler
+                0x30003288       0x74 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x30003288                StartOutputHandler
+ .text.StopInputHandler
+                0x300032fc      0x19c ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x300032fc                StopInputHandler
+ .text.SetALStatus
+                0x30003498      0x138 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x30003498                SetALStatus
+ .text.AL_ControlRes.part.0
+                0x300035d0      0x350 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .text.AL_ControlInd
+                0x30003920      0x944 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x30003920                AL_ControlInd
+ .text.DC_CheckWatchdog
+                0x30004264      0x100 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x30004264                DC_CheckWatchdog
+ .text.CheckIfEcatError
+                0x30004364       0x8c ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x30004364                CheckIfEcatError
+ .text.ECAT_Init
+                0x300043f0      0x1d8 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x300043f0                ECAT_Init
+ .text.ECAT_Main
+                0x300045c8      0x164 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x300045c8                ECAT_Main
+ .text.FOE_Read
+                0x3000472c       0x30 ./src/ethercat/beckhoff/Src/foeappl.o
+                0x3000472c                FOE_Read
+ .text.FOE_Write
+                0x3000475c       0x14 ./src/ethercat/beckhoff/Src/foeappl.o
+                0x3000475c                FOE_Write
+ .text.FOE_Data
+                0x30004770       0x3c ./src/ethercat/beckhoff/Src/foeappl.o
+                0x30004770                FOE_Data
+ .text.FOE_Ack  0x300047ac       0x2c ./src/ethercat/beckhoff/Src/foeappl.o
+                0x300047ac                FOE_Ack
+ .text.FOE_Busy
+                0x300047d8       0x2c ./src/ethercat/beckhoff/Src/foeappl.o
+                0x300047d8                FOE_Busy
+ .text.FOE_Error
+                0x30004804       0x10 ./src/ethercat/beckhoff/Src/foeappl.o
+                0x30004804                FOE_Error
+ .text.MBX_CopyToSendMailbox.part.0
+                0x30004814       0xc8 ./src/ethercat/beckhoff/Src/mailbox.o
+ .text.MBX_Init
+                0x300048dc      0x118 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x300048dc                MBX_Init
+ .text.MBX_StartMailboxHandler
+                0x300049f4       0xb8 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x300049f4                MBX_StartMailboxHandler
+ .text.MBX_StopMailboxHandler
+                0x30004aac      0x158 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x30004aac                MBX_StopMailboxHandler
+ .text.MailboxServiceInd
+                0x30004c04       0x2c ./src/ethercat/beckhoff/Src/mailbox.o
+                0x30004c04                MailboxServiceInd
+ .text.MBX_MailboxReadInd
+                0x30004c30      0x140 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x30004c30                MBX_MailboxReadInd
+ .text.MBX_MailboxRepeatReq
+                0x30004d70       0x8c ./src/ethercat/beckhoff/Src/mailbox.o
+                0x30004d70                MBX_MailboxRepeatReq
+ .text.MBX_MailboxSendReq
+                0x30004dfc       0xc0 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x30004dfc                MBX_MailboxSendReq
+ .text.MBX_MailboxWriteInd
+                0x30004ebc       0xa0 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x30004ebc                MBX_MailboxWriteInd
+ .text.MBX_CheckAndCopyMailbox
+                0x30004f5c       0xf8 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x30004f5c                MBX_CheckAndCopyMailbox
+ .text.MBX_CopyToSendMailbox
+                0x30005054       0x38 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x30005054                MBX_CopyToSendMailbox
+ .text.MBX_Main
+                0x3000508c       0x70 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000508c                MBX_Main
+ .text.OBJ_GetObjectHandle
+                0x300050fc       0x18 ./src/ethercat/beckhoff/Src/objdef.o
+                0x300050fc                OBJ_GetObjectHandle
+ .text.OBJ_GetObjectLength
+                0x30005114       0xac ./src/ethercat/beckhoff/Src/objdef.o
+                0x30005114                OBJ_GetObjectLength
+ .text.OBJ_GetNoOfObjects
+                0x300051c0       0x68 ./src/ethercat/beckhoff/Src/objdef.o
+                0x300051c0                OBJ_GetNoOfObjects
+ .text.OBJ_GetObjectList
+                0x30005228       0xec ./src/ethercat/beckhoff/Src/objdef.o
+                0x30005228                OBJ_GetObjectList
+ .text.OBJ_GetDesc
+                0x30005314       0xf8 ./src/ethercat/beckhoff/Src/objdef.o
+                0x30005314                OBJ_GetDesc
+ .text.OBJ_GetEntryDesc
+                0x3000540c       0x20 ./src/ethercat/beckhoff/Src/objdef.o
+                0x3000540c                OBJ_GetEntryDesc
+ .text.OBJ_GetObjDesc
+                0x3000542c        0x4 ./src/ethercat/beckhoff/Src/objdef.o
+                0x3000542c                OBJ_GetObjDesc
+ .text.OBJ_GetEntryOffset
+                0x30005430      0x10c ./src/ethercat/beckhoff/Src/objdef.o
+                0x30005430                OBJ_GetEntryOffset
+ .text.CheckSyncTypeValue
+                0x3000553c      0x13c ./src/ethercat/beckhoff/Src/objdef.o
+                0x3000553c                CheckSyncTypeValue
+ .text.OBJ_Read
+                0x30005678      0x4e0 ./src/ethercat/beckhoff/Src/objdef.o
+                0x30005678                OBJ_Read
+ .text.OBJ_Write
+                0x30005b58      0x658 ./src/ethercat/beckhoff/Src/objdef.o
+                0x30005b58                OBJ_Write
+ .text.SdoRes   0x300061b0       0xe8 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x300061b0                SdoRes
+ .text.SDOS_SdoInd
+                0x30006298      0x930 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x30006298                SDOS_SdoInd
+ .text.SDOS_SdoRes
+                0x30006bc8      0x100 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x30006bc8                SDOS_SdoRes
+ .text.SDOS_ClearPendingResponse
+                0x30006cc8       0xb8 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x30006cc8                SDOS_ClearPendingResponse
+ .text.SDOS_SdoInfoInd
+                0x30006d80      0x334 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x30006d80                SDOS_SdoInfoInd
+ .text.hal_entry
+                0x300070b4       0x64 ./src/hal_entry.o
+                0x300070b4                hal_entry
+ .text.handle_error
+                0x30007118        0x4 ./src/hal_entry.o
+                0x30007118                handle_error
+ .text.R_BSP_WarmStart
+                0x3000711c       0x1c ./src/hal_entry.o
+                0x3000711c                R_BSP_WarmStart
+ .text.startup.main
+                0x30007138        0xc ./rzn_gen/main.o
+                0x30007138                main
+ .text.RM_ETHERCAT_SSC_PORT_VersionGet
+                0x30007144        0xc ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x30007144                RM_ETHERCAT_SSC_PORT_VersionGet
+ .text.RM_ETHERCAT_SSC_PORT_Close
+                0x30007150      0x12c ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x30007150                RM_ETHERCAT_SSC_PORT_Close
+ .text.RM_ETHERCAT_SSC_PORT_Open
+                0x3000727c      0x66c ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x3000727c                RM_ETHERCAT_SSC_PORT_Open
+ .text.rm_ssc_port_timer_interrupt
+                0x300078e8       0x18 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x300078e8                rm_ssc_port_timer_interrupt
+ .text.ethercat_ssc_port_isr_esc_cat
+                0x30007900       0x44 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x30007900                ethercat_ssc_port_isr_esc_cat
+ .text.ethercat_ssc_port_isr_esc_sync0
+                0x30007944       0x44 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x30007944                ethercat_ssc_port_isr_esc_sync0
+ .text.ethercat_ssc_port_isr_esc_sync1
+                0x30007988       0x44 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x30007988                ethercat_ssc_port_isr_esc_sync1
+ .text.HW_GetTimer
+                0x300079cc        0xc ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x300079cc                HW_GetTimer
+ .text.HW_ClearTimer
+                0x300079d8       0x10 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x300079d8                HW_ClearTimer
+ .text.HW_SetLed
+                0x300079e8       0x18 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x300079e8                HW_SetLed
+ .text.DISABLE_ESC_INT
+                0x30007a00       0xcc ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x30007a00                DISABLE_ESC_INT
+ .text.ENABLE_ESC_INT
+                0x30007acc       0xe0 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x30007acc                ENABLE_ESC_INT
+ .text.R_XSPI_QSPI_SpiProtocolSet
+                0x30007bac       0x24 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+                0x30007bac                R_XSPI_QSPI_SpiProtocolSet
+ .text.R_XSPI_QSPI_Open
+                0x30007bd0      0x124 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+                0x30007bd0                R_XSPI_QSPI_Open
+ .text.r_xspi_qspi_direct_transfer.isra.0
+                0x30007cf4       0x94 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .text.R_XSPI_QSPI_DirectTransfer
+                0x30007d88        0xc ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+                0x30007d88                R_XSPI_QSPI_DirectTransfer
+ .text.R_XSPI_QSPI_Erase
+                0x30007d94       0xb4 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+                0x30007d94                R_XSPI_QSPI_Erase
+ .text.r_xspi_qspi_status_sub
+                0x30007e48       0x94 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .text.R_XSPI_QSPI_StatusGet
+                0x30007edc       0x20 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+                0x30007edc                R_XSPI_QSPI_StatusGet
+ .text.R_XSPI_QSPI_Write
+                0x30007efc       0xa4 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+                0x30007efc                R_XSPI_QSPI_Write
+ .text.sci_uart_txi_isr
+                0x30007fa0       0x94 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+                0x30007fa0                sci_uart_txi_isr
+ .text.sci_uart_rxi_isr
+                0x30008034       0x8c ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+                0x30008034                sci_uart_rxi_isr
+ .text.sci_uart_tei_isr
+                0x300080c0       0x58 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+                0x300080c0                sci_uart_tei_isr
+ .text.sci_uart_eri_isr
+                0x30008118       0x94 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+                0x30008118                sci_uart_eri_isr
+ .text.R_ETHER_SELECTOR_ConverterSet
+                0x300081ac       0x68 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+                0x300081ac                R_ETHER_SELECTOR_ConverterSet
+ .text.R_ETHER_SELECTOR_Close
+                0x30008214        0xc ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+                0x30008214                R_ETHER_SELECTOR_Close
+ .text.R_ETHER_SELECTOR_VersionGet
+                0x30008220        0xc ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+                0x30008220                R_ETHER_SELECTOR_VersionGet
+ .text.R_ETHER_SELECTOR_Open
+                0x3000822c      0x1a4 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+                0x3000822c                R_ETHER_SELECTOR_Open
+ .text.R_ETHER_PHY_Close
+                0x300083d0       0x1c ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+                0x300083d0                R_ETHER_PHY_Close
+ .text.R_ETHER_PHY_VersionGet
+                0x300083ec        0xc ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+                0x300083ec                R_ETHER_PHY_VersionGet
+ .text.ether_phy_read
+                0x300083f8      0x148 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+                0x300083f8                ether_phy_read
+ .text.R_ETHER_PHY_LinkPartnerAbilityGet
+                0x30008540      0x188 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+                0x30008540                R_ETHER_PHY_LinkPartnerAbilityGet
+ .text.R_ETHER_PHY_LinkStatusGet
+                0x300086c8       0x34 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+                0x300086c8                R_ETHER_PHY_LinkStatusGet
+ .text.ether_phy_write
+                0x300086fc      0x150 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+                0x300086fc                ether_phy_write
+ .text.R_ETHER_PHY_Open
+                0x3000884c      0x4a4 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+                0x3000884c                R_ETHER_PHY_Open
+ .text.R_ETHER_PHY_StartAutoNegotiate
+                0x30008cf0       0x28 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+                0x30008cf0                R_ETHER_PHY_StartAutoNegotiate
+ .text.R_CMT_Stop
+                0x30008d18       0x2c ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008d18                R_CMT_Stop
+ .text.R_CMT_Start
+                0x30008d44       0x28 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008d44                R_CMT_Start
+ .text.R_CMT_Reset
+                0x30008d6c       0x28 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008d6c                R_CMT_Reset
+ .text.R_CMT_Enable
+                0x30008d94        0x4 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008d94                R_CMT_Enable
+ .text.R_CMT_PeriodSet
+                0x30008d98       0x34 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008d98                R_CMT_PeriodSet
+ .text.R_CMT_DutyCycleSet
+                0x30008dcc        0x4 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008dcc                R_CMT_DutyCycleSet
+ .text.R_CMT_StatusGet
+                0x30008dd0       0x3c ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008dd0                R_CMT_StatusGet
+ .text.R_CMT_CallbackSet
+                0x30008e0c        0x4 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008e0c                R_CMT_CallbackSet
+ .text.R_CMT_VersionGet
+                0x30008e10        0xc ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008e10                R_CMT_VersionGet
+ .text.R_CMT_Close
+                0x30008e1c       0xb4 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008e1c                R_CMT_Close
+ .text.R_CMT_InfoGet
+                0x30008ed0       0x60 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008ed0                R_CMT_InfoGet
+ .text.R_CMT_Disable
+                0x30008f30        0x4 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008f30                R_CMT_Disable
+ .text.R_CMT_Open
+                0x30008f34      0x164 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30008f34                R_CMT_Open
+ .text.cmt_cm_int_isr
+                0x30009098       0xa4 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x30009098                cmt_cm_int_isr
+ .text.bsp_prv_software_delay_loop
+                0x3000913c        0xc ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+                0x3000913c                bsp_prv_software_delay_loop
+ .text.R_BSP_SoftwareDelay
+                0x30009148       0x84 ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+                0x30009148                R_BSP_SoftwareDelay
+ .text.R_BSP_SystemReset
+                0x300091cc       0x14 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+                0x300091cc                R_BSP_SystemReset
+ .text.R_BSP_ModuleResetEnable
+                0x300091e0       0x34 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+                0x300091e0                R_BSP_ModuleResetEnable
+ .text.R_BSP_ModuleResetDisable
+                0x30009214       0x3c ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+                0x30009214                R_BSP_ModuleResetDisable
+ .text._sbrk    0x30009250       0x48 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+                0x30009250                _sbrk
+ .text          0x30009298       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x30009298                __aeabi_uldivmod
+ .text          0x300092c8      0x114 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x300092c8                __udivmoddi4
+ .text          0x300093dc        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x300093dc                __aeabi_idiv0
+                0x300093dc                __aeabi_ldiv0
+ .text.__errno  0x300093e0        0xc c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-errno.o)
+                0x300093e0                __errno
+ .text.malloc   0x300093ec       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-malloc.o)
+                0x300093ec                malloc
+ .text.free     0x300093fc       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-malloc.o)
+                0x300093fc                free
+ .text.memcmp   0x3000940c       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcmp.o)
+                0x3000940c                memcmp
+ .text.memcpy   0x3000942c       0x1a c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+                0x3000942c                memcpy
+ .text.memset   0x30009446       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memset.o)
+                0x30009446                memset
+ *fill*         0x30009456        0x2 
+ .text._free_r  0x30009458       0x98 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+                0x30009458                _free_r
+ .text.sbrk_aligned
+                0x300094f0       0x40 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x30009530       0xe4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+                0x30009530                _malloc_r
+ .text._sbrk_r  0x30009614       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+                0x30009614                _sbrk_r
+ .text          0x30009634       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-strlen.o)
+                0x30009634                strlen
+ .text.__malloc_lock
+                0x30009644        0xc c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-mlock.o)
+                0x30009644                __malloc_lock
+ .text.__malloc_unlock
+                0x30009650        0xc c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-mlock.o)
+                0x30009650                __malloc_unlock
+ .text.__retarget_lock_acquire_recursive
+                0x3000965c        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+                0x3000965c                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x3000965e        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+                0x3000965e                __retarget_lock_release_recursive
+ .text.__retarget_lock_release_recursive.__stub
+                0x30009660       0x28 linker stubs
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x30009688                _ctor_end = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x30009688                _dtor_end = .
+ *(.eh_frame*)
+
+.glue_7         0x30009688        0x0 load address 0x6020ba34
+ .glue_7        0x30009688        0x0 linker stubs
+
+.glue_7t        0x30009688        0x0 load address 0x6020ba34
+ .glue_7t       0x30009688        0x0 linker stubs
+
+.vfp11_veneer   0x30009688        0x0 load address 0x6020ba34
+ .vfp11_veneer  0x30009688        0x0 linker stubs
+
+.v4_bx          0x30009688        0x0 load address 0x6020ba34
+ .v4_bx         0x30009688        0x0 linker stubs
+
+.iplt           0x30009688        0x0 load address 0x6020ba34
+ .iplt          0x30009688        0x0 ./src/r_fw_up_rz/r_fw_up_buf.o
+
+.rvectors       0x30009688        0x0
+                0x30009688                _rvectors_start = .
+ *(.rvectors)
+                0x30009688                _rvectors_end = .
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x30009688                __exidx_start = .
+
+.ARM.exidx      0x30009688        0x8 load address 0x6020ba34
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x30009688        0x8 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x30009690                __exidx_end = .
+
+.rel.dyn        0x30009690        0x0 load address 0x6020ba3c
+ .rel.iplt      0x30009690        0x0 ./src/r_fw_up_rz/r_fw_up_buf.o
+
+.got            0x30009690        0x0
+ *(.got)
+ *(.got.plt)
+                0x30009690                _text_end = .
+
+.data           0x30009690     0x1a90 load address 0x6020ba3c
+                0x30009690                _data_start = .
+ *(vtable)
+ *(.data.*)
+ .data.RxPDOMap
+                0x30009690        0x8 ./src/ethercat/renesas/sampleappl.o
+                0x30009690                RxPDOMap
+ .data.TxPDOMap
+                0x30009698        0x8 ./src/ethercat/renesas/sampleappl.o
+                0x30009698                TxPDOMap
+ .data.sModulardeviceprofile
+                0x300096a0        0x6 ./src/ethercat/renesas/sampleappl.o
+                0x300096a0                sModulardeviceprofile
+ *fill*         0x300096a6        0x2 
+ .data.sRxPDOassign
+                0x300096a8        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x300096a8                sRxPDOassign
+ .data.sTxPDOassign
+                0x300096ac        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x300096ac                sTxPDOassign
+ .data.ApplicationObjDic
+                0x300096b0      0x168 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x300096b0                ApplicationObjDic
+ .data.GenObjDic
+                0x30009818      0x1e0 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009818                GenObjDic
+ .data.acDevicename
+                0x300099f8       0x21 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x300099f8                acDevicename
+ *fill*         0x30009a19        0x3 
+ .data.acHardwareversion
+                0x30009a1c        0x4 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009a1c                acHardwareversion
+ .data.acSoftwareversion
+                0x30009a20        0x4 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009a20                acSoftwareversion
+ .data.sIdentity
+                0x30009a24       0x14 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009a24                sIdentity
+ .data.sSyncmanagertype
+                0x30009a38        0x6 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009a38                sSyncmanagertype
+ *fill*         0x30009a3e        0x2 
+ .data.u32Devicetype
+                0x30009a40        0x4 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009a40                u32Devicetype
+ .data.aSubindexDesc
+                0x30009a44        0xd ./src/ethercat/beckhoff/Src/objdef.o
+                0x30009a44                aSubindexDesc
+ *fill*         0x30009a51        0x3 
+ .data.sErrorSettings
+                0x30009a54        0xc ./src/ethercat/beckhoff/Src/objdef.o
+                0x30009a54                sErrorSettings
+ .data.gp_ethercat_ssc_port
+                0x30009a60        0x4 ./rzn_gen/common_data.o
+                0x30009a60                gp_ethercat_ssc_port
+ .data.g_qspi0_timing_settings
+                0x30009a64        0x3 ./rzn_gen/hal_data.o
+ *fill*         0x30009a67        0x1 
+ .data._impure_ptr
+                0x30009a68        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-impure.o)
+                0x30009a68                _impure_ptr
+ .data.impure_data
+                0x30009a6c       0x60 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-impure.o)
+ *(.data)
+ *(.rodata*)
+ .rodata.g_sample_dip_sws
+                0x30009acc        0x8 ./src/ethercat/renesas/sampleios.o
+                0x30009acc                g_sample_dip_sws
+ .rodata.g_sample_leds
+                0x30009ad4        0x8 ./src/ethercat/renesas/sampleios.o
+                0x30009ad4                g_sample_leds
+ .rodata.g_sample_prv_dip_sws
+                0x30009adc        0x8 ./src/ethercat/renesas/sampleios.o
+ .rodata.g_sample_prv_leds
+                0x30009ae4        0x8 ./src/ethercat/renesas/sampleios.o
+ .rodata.EntryDesc0x6000
+                0x30009aec        0x6 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009aec                EntryDesc0x6000
+ *fill*         0x30009af2        0x2 
+ .rodata.EntryDesc0x7010
+                0x30009af4        0x6 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009af4                EntryDesc0x7010
+ *fill*         0x30009afa        0x2 
+ .rodata.aName0x1000
+                0x30009afc        0xc ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009afc                aName0x1000
+ .rodata.aName0x1001
+                0x30009b08        0xf ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009b08                aName0x1001
+ *fill*         0x30009b17        0x1 
+ .rodata.aName0x1008
+                0x30009b18        0xc ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009b18                aName0x1008
+ .rodata.aName0x1009
+                0x30009b24       0x1e ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009b24                aName0x1009
+ *fill*         0x30009b42        0x2 
+ .rodata.aName0x100A
+                0x30009b44       0x1e ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009b44                aName0x100A
+ *fill*         0x30009b62        0x2 
+ .rodata.aName0x1018
+                0x30009b64       0x47 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009b64                aName0x1018
+ *fill*         0x30009bab        0x1 
+ .rodata.aName0x10F1
+                0x30009bac       0x3f ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009bac                aName0x10F1
+ *fill*         0x30009beb        0x1 
+ .rodata.aName0x10F8
+                0x30009bec       0x13 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009bec                aName0x10F8
+ *fill*         0x30009bff        0x1 
+ .rodata.aName0x1601
+                0x30009c00        0xc ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009c00                aName0x1601
+ .rodata.aName0x1A00
+                0x30009c0c        0xc ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009c0c                aName0x1A00
+ .rodata.aName0x1C00
+                0x30009c18       0x12 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009c18                aName0x1C00
+ *fill*         0x30009c2a        0x2 
+ .rodata.aName0x1C12
+                0x30009c2c        0xd ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009c2c                aName0x1C12
+ *fill*         0x30009c39        0x3 
+ .rodata.aName0x1C13
+                0x30009c3c        0xd ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009c3c                aName0x1C13
+ *fill*         0x30009c49        0x3 
+ .rodata.aName0x1C32
+                0x30009c4c      0x108 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009c4c                aName0x1C32
+ .rodata.aName0x1C33
+                0x30009d54      0x107 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009d54                aName0x1C33
+ *fill*         0x30009e5b        0x1 
+ .rodata.aName0x6000
+                0x30009e5c        0xd ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009e5c                aName0x6000
+ *fill*         0x30009e69        0x3 
+ .rodata.aName0x7010
+                0x30009e6c        0xe ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009e6c                aName0x7010
+ *fill*         0x30009e7a        0x2 
+ .rodata.aName0xF000
+                0x30009e7c       0x42 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009e7c                aName0xF000
+ *fill*         0x30009ebe        0x2 
+ .rodata.aName0xF010
+                0x30009ec0       0x14 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009ec0                aName0xF010
+ .rodata.asEntryDesc0x1018
+                0x30009ed4       0x1e ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009ed4                asEntryDesc0x1018
+ *fill*         0x30009ef2        0x2 
+ .rodata.asEntryDesc0x10F1
+                0x30009ef4       0x12 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009ef4                asEntryDesc0x10F1
+ *fill*         0x30009f06        0x2 
+ .rodata.asEntryDesc0x1601
+                0x30009f08        0xc ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009f08                asEntryDesc0x1601
+ .rodata.asEntryDesc0x1A00
+                0x30009f14        0xc ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009f14                asEntryDesc0x1A00
+ .rodata.asEntryDesc0x1C00
+                0x30009f20        0xc ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009f20                asEntryDesc0x1C00
+ .rodata.asEntryDesc0x1C3x
+                0x30009f2c       0xc6 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009f2c                asEntryDesc0x1C3x
+ *fill*         0x30009ff2        0x2 
+ .rodata.asEntryDesc0xF000
+                0x30009ff4       0x12 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x30009ff4                asEntryDesc0xF000
+ *fill*         0x3000a006        0x2 
+ .rodata.asEntryDesc0xF010
+                0x3000a008        0xc ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000a008                asEntryDesc0xF010
+ .rodata.asPDOAssignEntryDesc
+                0x3000a014        0xc ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000a014                asPDOAssignEntryDesc
+ .rodata.sEntryDesc0x1000
+                0x3000a020        0x6 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000a020                sEntryDesc0x1000
+ *fill*         0x3000a026        0x2 
+ .rodata.sEntryDesc0x1001
+                0x3000a028        0x6 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000a028                sEntryDesc0x1001
+ *fill*         0x3000a02e        0x2 
+ .rodata.sEntryDesc0x1008
+                0x3000a030        0x6 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000a030                sEntryDesc0x1008
+ *fill*         0x3000a036        0x2 
+ .rodata.sEntryDesc0x1009
+                0x3000a038        0x6 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000a038                sEntryDesc0x1009
+ *fill*         0x3000a03e        0x2 
+ .rodata.sEntryDesc0x100A
+                0x3000a040        0x6 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000a040                sEntryDesc0x100A
+ *fill*         0x3000a046        0x2 
+ .rodata.sEntryDesc0x10F8
+                0x3000a048        0x6 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000a048                sEntryDesc0x10F8
+ *fill*         0x3000a04e        0x2 
+ .rodata.cBitMask
+                0x3000a050       0x20 ./src/ethercat/beckhoff/Src/objdef.o
+                0x3000a050                cBitMask
+ .rodata.cAbortCode
+                0x3000a070       0x78 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000a070                cAbortCode
+ .rodata.g_ether_phy0
+                0x3000a0e8        0xc ./rzn_gen/common_data.o
+                0x3000a0e8                g_ether_phy0
+ .rodata.g_ether_phy0_cfg
+                0x3000a0f4       0x18 ./rzn_gen/common_data.o
+                0x3000a0f4                g_ether_phy0_cfg
+ .rodata.g_ether_phy0_extend
+                0x3000a10c       0x10 ./rzn_gen/common_data.o
+                0x3000a10c                g_ether_phy0_extend
+ .rodata.g_ether_phy1
+                0x3000a11c        0xc ./rzn_gen/common_data.o
+                0x3000a11c                g_ether_phy1
+ .rodata.g_ether_phy1_cfg
+                0x3000a128       0x18 ./rzn_gen/common_data.o
+                0x3000a128                g_ether_phy1_cfg
+ .rodata.g_ether_phy1_extend
+                0x3000a140       0x10 ./rzn_gen/common_data.o
+                0x3000a140                g_ether_phy1_extend
+ .rodata.g_ether_selector0
+                0x3000a150        0xc ./rzn_gen/common_data.o
+                0x3000a150                g_ether_selector0
+ .rodata.g_ether_selector0_cfg
+                0x3000a15c        0xc ./rzn_gen/common_data.o
+                0x3000a15c                g_ether_selector0_cfg
+ .rodata.g_ether_selector1
+                0x3000a168        0xc ./rzn_gen/common_data.o
+                0x3000a168                g_ether_selector1
+ .rodata.g_ether_selector1_cfg
+                0x3000a174        0xc ./rzn_gen/common_data.o
+                0x3000a174                g_ether_selector1_cfg
+ .rodata.g_ethercat_ssc_port0
+                0x3000a180        0xc ./rzn_gen/common_data.o
+                0x3000a180                g_ethercat_ssc_port0
+ .rodata.g_ethercat_ssc_port0_cfg
+                0x3000a18c       0x28 ./rzn_gen/common_data.o
+                0x3000a18c                g_ethercat_ssc_port0_cfg
+ .rodata.g_ethercat_ssc_port0_ext_cfg
+                0x3000a1b4       0x10 ./rzn_gen/common_data.o
+                0x3000a1b4                g_ethercat_ssc_port0_ext_cfg
+ .rodata.g_ioport
+                0x3000a1c4        0xc ./rzn_gen/common_data.o
+                0x3000a1c4                g_ioport
+ .rodata.g_ioport_cfg_extend
+                0x3000a1d0       0x26 ./rzn_gen/common_data.o
+                0x3000a1d0                g_ioport_cfg_extend
+ *fill*         0x3000a1f6        0x2 
+ .rodata.g_timer0
+                0x3000a1f8        0xc ./rzn_gen/common_data.o
+                0x3000a1f8                g_timer0
+ .rodata.g_timer0_cfg
+                0x3000a204       0x20 ./rzn_gen/common_data.o
+                0x3000a204                g_timer0_cfg
+ .rodata.g_qspi0_cfg
+                0x3000a224       0x1c ./rzn_gen/hal_data.o
+                0x3000a224                g_qspi0_cfg
+ .rodata.g_qspi0_erase_command_list
+                0x3000a240       0x20 ./rzn_gen/hal_data.o
+ .rodata.g_qspi0_extended_cfg
+                0x3000a260        0xc ./rzn_gen/hal_data.o
+ .rodata.g_bsp_pin_cfg
+                0x3000a26c        0xc ./rzn_gen/pin_data.o
+                0x3000a26c                g_bsp_pin_cfg
+ .rodata.g_bsp_pin_cfg_data
+                0x3000a278      0x320 ./rzn_gen/pin_data.o
+                0x3000a278                g_bsp_pin_cfg_data
+ .rodata.g_vector_table
+                0x3000a598      0x9c0 ./rzn_gen/vector_data.o
+                0x3000a598                g_vector_table
+ .rodata        0x3000af58        0x3 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ *fill*         0x3000af5b        0x1 
+ .rodata.g_ethercat_ssc_port_on_ethercat_ssc_port
+                0x3000af5c        0xc ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x3000af5c                g_ethercat_ssc_port_on_ethercat_ssc_port
+ .rodata.g_ioport_on_ioport
+                0x3000af68       0x38 ./rzn/fsp/src/r_ioport/r_ioport.o
+                0x3000af68                g_ioport_on_ioport
+ .rodata.g_ether_selector_on_ether_selector
+                0x3000afa0       0x10 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+                0x3000afa0                g_ether_selector_on_ether_selector
+ .rodata.CSWTCH.16
+                0x3000afb0        0x5 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ *fill*         0x3000afb5        0x3 
+ .rodata.CSWTCH.40
+                0x3000afb8        0xc ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .rodata.g_ether_phy_on_ether_phy
+                0x3000afc4       0x18 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+                0x3000afc4                g_ether_phy_on_ether_phy
+ .rodata.g_timer_on_cmt
+                0x3000afdc       0x34 ./rzn/fsp/src/r_cmt/r_cmt.o
+                0x3000afdc                g_timer_on_cmt
+ .rodata.g_bsp_system_clock_select
+                0x3000b010       0x98 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+                0x3000b010                g_bsp_system_clock_select
+ .rodata.BSP_PRV_GICD_ICFGR_INIT
+                0x3000b0a8       0x70 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .rodata.g_prcr_masks
+                0x3000b118        0x8 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x3000b120                _erodata = .
+                0x3000b120                . = ALIGN (0x4)
+                0x3000b120                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x3000b120                PROVIDE (__preinit_array_end = .)
+                0x3000b120                . = ALIGN (0x4)
+                0x3000b120                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x3000b120                PROVIDE (__init_array_end = .)
+                0x3000b120                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x3000b120                . = ALIGN (0x4)
+                0x3000b120                _data_end = .
+
+.igot.plt       0x3000b120        0x0 load address 0x6020d4cc
+ .igot.plt      0x3000b120        0x0 ./src/r_fw_up_rz/r_fw_up_buf.o
+
+.bss            0x3000b120      0xd10 load address 0x6020d4d0
+                0x3000b120                . = ALIGN (0x4)
+                0x3000b120                __bss_start__ = .
+                0x3000b120                _bss = .
+ *(.bss*)
+ .bss.cnt.0     0x3000b120        0x4 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss.detect_terminal_flag
+                0x3000b124        0x1 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss.mot_buf.3
+                0x3000b125        0x1 ./src/r_fw_up_rz/r_fw_up_buf.o
+ *fill*         0x3000b126        0x2 
+ .bss.mot_s_buf
+                0x3000b128      0x4b0 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss.mot_s_data_state
+                0x3000b5d8        0x1 ./src/r_fw_up_rz/r_fw_up_buf.o
+ *fill*         0x3000b5d9        0x3 
+ .bss.papp_get_mot_s_buf
+                0x3000b5dc        0x4 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss.papp_put_mot_s_buf
+                0x3000b5e0        0x4 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss.papp_write_buf
+                0x3000b5e4        0x4 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss.pwork_addr.1
+                0x3000b5e8        0x4 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss.sum_value.2
+                0x3000b5ec        0x4 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss.write_buf
+                0x3000b5f0      0x220 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss.write_current_address
+                0x3000b810        0x4 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .bss.is_opened
+                0x3000b814        0x1 ./src/r_fw_up_rz/r_fw_up_rz.o
+ *fill*         0x3000b815        0x3 
+ .bss.InputCounter
+                0x3000b818        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x3000b818                InputCounter
+ .bss.OutputCounter
+                0x3000b81c        0x4 ./src/ethercat/renesas/sampleappl.o
+                0x3000b81c                OutputCounter
+ .bss.sModulelist
+                0x3000b820        0xc ./src/ethercat/renesas/sampleappl.o
+                0x3000b820                sModulelist
+ .bss.aFileData
+                0x3000b82c      0x180 ./src/ethercat/renesas/samplefoe.o
+                0x3000b82c                aFileData
+ .bss.aFileName
+                0x3000b9ac       0x10 ./src/ethercat/renesas/samplefoe.o
+                0x3000b9ac                aFileName
+ .bss.nFileWriteOffset
+                0x3000b9bc        0x4 ./src/ethercat/renesas/samplefoe.o
+                0x3000b9bc                nFileWriteOffset
+ .bss.u32FileSize
+                0x3000b9c0        0x4 ./src/ethercat/renesas/samplefoe.o
+                0x3000b9c0                u32FileSize
+ .bss.Buffer    0x3000b9c4       0x10 ./src/ethercat/beckhoff/Src/bootmode.o
+                0x3000b9c4                Buffer
+ .bss.DataStatus
+                0x3000b9d4        0x1 ./src/ethercat/beckhoff/Src/bootmode.o
+ *fill*         0x3000b9d5        0x1 
+ .bss.EraseSectorFlag
+                0x3000b9d6        0x2 ./src/ethercat/beckhoff/Src/bootmode.o
+ .bss.EraseSectorNumber
+                0x3000b9d8        0x1 ./src/ethercat/beckhoff/Src/bootmode.o
+ *fill*         0x3000b9d9        0x3 
+ .bss.FlashWriteBuffer
+                0x3000b9dc      0x100 ./src/ethercat/beckhoff/Src/bootmode.o
+ .bss.bReBoot   0x3000badc        0x1 ./src/ethercat/beckhoff/Src/bootmode.o
+ *fill*         0x3000badd        0x3 
+ .bss.ObjDicList
+                0x3000bae0        0x4 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000bae0                ObjDicList
+ .bss.u16ErrorRegister
+                0x3000bae4        0x2 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000bae4                u16ErrorRegister
+ *fill*         0x3000bae6        0x2 
+ .bss.u32CheckForDcOverrunCnt
+                0x3000bae8        0x4 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000bae8                u32CheckForDcOverrunCnt
+ .bss.u32LastDc32Value
+                0x3000baec        0x4 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000baec                u32LastDc32Value
+ .bss.u64Timestamp
+                0x3000baf0        0x8 ./src/ethercat/beckhoff/Src/coeappl.o
+                0x3000baf0                u64Timestamp
+ .bss.ErrorCounter.0
+                0x3000baf8        0x2 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .bss.RunCounter.2
+                0x3000bafa        0x2 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .bss.aPdInputData
+                0x3000bafc       0x44 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bafc                aPdInputData
+ .bss.aPdOutputData
+                0x3000bb40       0x44 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb40                aPdOutputData
+ .bss.bEtherCATErrorLed
+                0x3000bb84        0x1 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb84                bEtherCATErrorLed
+ .bss.bEtherCATRunLed
+                0x3000bb85        0x1 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb85                bEtherCATRunLed
+ .bss.bInitFinished
+                0x3000bb86        0x1 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb86                bInitFinished
+ .bss.bMinCycleTimeMeasurementStarted
+                0x3000bb87        0x1 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb87                bMinCycleTimeMeasurementStarted
+ .bss.bRunApplication
+                0x3000bb88        0x1 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb88                bRunApplication
+ *fill*         0x3000bb89        0x1 
+ .bss.ms.4      0x3000bb8a        0x2 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .bss.pAPPL_CoeReadInd
+                0x3000bb8c        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb8c                pAPPL_CoeReadInd
+ .bss.pAPPL_CoeWriteInd
+                0x3000bb90        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb90                pAPPL_CoeWriteInd
+ .bss.pAPPL_FoeError
+                0x3000bb94        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb94                pAPPL_FoeError
+ .bss.pAPPL_FoeRead
+                0x3000bb98        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb98                pAPPL_FoeRead
+ .bss.pAPPL_FoeReadData
+                0x3000bb9c        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bb9c                pAPPL_FoeReadData
+ .bss.pAPPL_FoeWrite
+                0x3000bba0        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bba0                pAPPL_FoeWrite
+ .bss.pAPPL_FoeWriteData
+                0x3000bba4        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bba4                pAPPL_FoeWriteData
+ .bss.pAPPL_MainLoop
+                0x3000bba8        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bba8                pAPPL_MainLoop
+ .bss.u32CycleTimeStartValue
+                0x3000bbac        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bbac                u32CycleTimeStartValue
+ .bss.u32MinCycleTimeStartValue
+                0x3000bbb0        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bbb0                u32MinCycleTimeStartValue
+ .bss.u32MinCycleTimeValue
+                0x3000bbb4        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bbb4                u32MinCycleTimeValue
+ .bss.u32SystemTimeReadFailure
+                0x3000bbb8        0x4 ./src/ethercat/beckhoff/Src/ecatappl.o
+                0x3000bbb8                u32SystemTimeReadFailure
+ .bss.u8PrevErrorLed.1
+                0x3000bbbc        0x1 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .bss.u8PrevRunLed.3
+                0x3000bbbd        0x1 ./src/ethercat/beckhoff/Src/ecatappl.o
+ *fill*         0x3000bbbe        0x2 
+ .bss.pCoeSendStored
+                0x3000bbc0        0x4 ./src/ethercat/beckhoff/Src/ecatcoe.o
+                0x3000bbc0                pCoeSendStored
+ .bss.pFoeSendStored
+                0x3000bbc4        0x4 ./src/ethercat/beckhoff/Src/ecatfoe.o
+                0x3000bbc4                pFoeSendStored
+ .bss.u16FileAccessState
+                0x3000bbc8        0x2 ./src/ethercat/beckhoff/Src/ecatfoe.o
+                0x3000bbc8                u16FileAccessState
+ .bss.u16FoeMaxSendBlockSize
+                0x3000bbca        0x2 ./src/ethercat/beckhoff/Src/ecatfoe.o
+                0x3000bbca                u16FoeMaxSendBlockSize
+ .bss.u32FileOffset
+                0x3000bbcc        0x4 ./src/ethercat/beckhoff/Src/ecatfoe.o
+                0x3000bbcc                u32FileOffset
+ .bss.u32LastFileOffset
+                0x3000bbd0        0x4 ./src/ethercat/beckhoff/Src/ecatfoe.o
+                0x3000bbd0                u32LastFileOffset
+ .bss.u32PacketNo
+                0x3000bbd4        0x4 ./src/ethercat/beckhoff/Src/ecatfoe.o
+                0x3000bbd4                u32PacketNo
+ .bss.EcatWdValue
+                0x3000bbd8        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbd8                EcatWdValue
+ .bss.EepromLoaded
+                0x3000bbda        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbda                EepromLoaded
+ *fill*         0x3000bbdb        0x1 
+ .bss.EsmTimeoutCounter
+                0x3000bbdc        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbdc                EsmTimeoutCounter
+ .bss.LatchInputSync0Counter
+                0x3000bbde        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbde                LatchInputSync0Counter
+ .bss.LatchInputSync0Value
+                0x3000bbe0        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbe0                LatchInputSync0Value
+ .bss.SMActivate
+                0x3000bbe2        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbe2                SMActivate
+ *fill*         0x3000bbe3        0x1 
+ .bss.Sync0WdCounter
+                0x3000bbe4        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbe4                Sync0WdCounter
+ .bss.Sync0WdValue
+                0x3000bbe6        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbe6                Sync0WdValue
+ .bss.Sync1WdCounter
+                0x3000bbe8        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbe8                Sync1WdCounter
+ .bss.Sync1WdValue
+                0x3000bbea        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbea                Sync1WdValue
+ .bss.SyncManInfo
+                0x3000bbec        0x8 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbec                SyncManInfo
+ .bss.b32BitDc  0x3000bbf4        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbf4                b32BitDc
+ .bss.b3BufferMode
+                0x3000bbf5        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbf5                b3BufferMode
+ .bss.bApplEsmPending
+                0x3000bbf6        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbf6                bApplEsmPending
+ .bss.bBootMode
+                0x3000bbf7        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbf7                bBootMode
+ .bss.bDcRunning
+                0x3000bbf8        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbf8                bDcRunning
+ .bss.bDcSyncActive
+                0x3000bbf9        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbf9                bDcSyncActive
+ .bss.bEcatFirstOutputsReceived
+                0x3000bbfa        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbfa                bEcatFirstOutputsReceived
+ .bss.bEcatInputUpdateRunning
+                0x3000bbfb        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbfb                bEcatInputUpdateRunning
+ .bss.bEcatOutputUpdateRunning
+                0x3000bbfc        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbfc                bEcatOutputUpdateRunning
+ .bss.bEcatWaitForAlControlRes
+                0x3000bbfd        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbfd                bEcatWaitForAlControlRes
+ .bss.bEscIntEnabled
+                0x3000bbfe        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbfe                bEscIntEnabled
+ .bss.bExplicitDevIdRequested
+                0x3000bbff        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bbff                bExplicitDevIdRequested
+ .bss.bSmSyncSequenceValid
+                0x3000bc00        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc00                bSmSyncSequenceValid
+ .bss.bWdTrigger
+                0x3000bc01        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc01                bWdTrigger
+ .bss.i16WaitForPllRunningCnt
+                0x3000bc02        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc02                i16WaitForPllRunningCnt
+ .bss.i16WaitForPllRunningTimeout
+                0x3000bc04        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc04                i16WaitForPllRunningTimeout
+ .bss.nAlStatus
+                0x3000bc06        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc06                nAlStatus
+ *fill*         0x3000bc07        0x1 
+ .bss.nEcatStateTrans
+                0x3000bc08        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc08                nEcatStateTrans
+ .bss.nEscAddrInputData
+                0x3000bc0a        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc0a                nEscAddrInputData
+ .bss.nEscAddrOutputData
+                0x3000bc0c        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc0c                nEscAddrOutputData
+ .bss.nMaxEscAddress
+                0x3000bc0e        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc0e                nMaxEscAddress
+ .bss.nMaxSyncMan
+                0x3000bc10        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc10                nMaxSyncMan
+ *fill*         0x3000bc11        0x1 
+ .bss.nPdInputSize
+                0x3000bc12        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc12                nPdInputSize
+ .bss.nPdOutputSize
+                0x3000bc14        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc14                nPdOutputSize
+ .bss.u16ALEventMask
+                0x3000bc16        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc16                u16ALEventMask
+ .bss.u16IdValue
+                0x3000bc18        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc18                u16IdValue
+ .bss.u16LocalErrorCode
+                0x3000bc1a        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc1a                u16LocalErrorCode
+ .bss.u16SmSync0Counter
+                0x3000bc1c        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc1c                u16SmSync0Counter
+ .bss.u16SmSync0Value
+                0x3000bc1e        0x2 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc1e                u16SmSync0Value
+ .bss.u8EcatErrorLed
+                0x3000bc20        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc20                u8EcatErrorLed
+ .bss.u8EcatRunLed
+                0x3000bc21        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc21                u8EcatRunLed
+ .bss.u8LocalErrorState
+                0x3000bc22        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc22                u8LocalErrorState
+ .bss.u8dummy   0x3000bc23        0x1 ./src/ethercat/beckhoff/Src/ecatslv.o
+                0x3000bc23                u8dummy
+ .bss.bMbxRepeatToggle
+                0x3000bc24        0x1 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc24                bMbxRepeatToggle
+ .bss.bMbxRunning
+                0x3000bc25        0x1 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc25                bMbxRunning
+ .bss.bNoMbxMemoryAvailable
+                0x3000bc26        0x1 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc26                bNoMbxMemoryAvailable
+ .bss.bReceiveMbxIsLocked
+                0x3000bc27        0x1 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc27                bReceiveMbxIsLocked
+ .bss.bSendMbxIsFull
+                0x3000bc28        0x1 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc28                bSendMbxIsFull
+ *fill*         0x3000bc29        0x3 
+ .bss.psReadMbx
+                0x3000bc2c        0x4 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc2c                psReadMbx
+ .bss.psRepeatMbx
+                0x3000bc30        0x4 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc30                psRepeatMbx
+ .bss.psStoreMbx
+                0x3000bc34        0x4 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc34                psStoreMbx
+ .bss.psWriteMbx
+                0x3000bc38        0x4 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc38                psWriteMbx
+ .bss.sMbxReceiveQueue
+                0x3000bc3c       0x34 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc3c                sMbxReceiveQueue
+ .bss.sMbxSendQueue
+                0x3000bc70       0x34 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bc70                sMbxSendQueue
+ .bss.u16EscAddrReceiveMbx
+                0x3000bca4        0x2 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bca4                u16EscAddrReceiveMbx
+ .bss.u16EscAddrSendMbx
+                0x3000bca6        0x2 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bca6                u16EscAddrSendMbx
+ .bss.u16ReceiveMbxSize
+                0x3000bca8        0x2 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bca8                u16ReceiveMbxSize
+ .bss.u16SendMbxSize
+                0x3000bcaa        0x2 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bcaa                u16SendMbxSize
+ .bss.u8MailboxSendReqStored
+                0x3000bcac        0x1 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bcac                u8MailboxSendReqStored
+ .bss.u8MbxReadCounter
+                0x3000bcad        0x1 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bcad                u8MbxReadCounter
+ .bss.u8MbxWriteCounter
+                0x3000bcae        0x1 ./src/ethercat/beckhoff/Src/mailbox.o
+                0x3000bcae                u8MbxWriteCounter
+ .bss.bSyncSetByUser
+                0x3000bcaf        0x1 ./src/ethercat/beckhoff/Src/objdef.o
+                0x3000bcaf                bSyncSetByUser
+ .bss.sCycleDiag
+                0x3000bcb0        0x2 ./src/ethercat/beckhoff/Src/objdef.o
+                0x3000bcb0                sCycleDiag
+ *fill*         0x3000bcb2        0x2 
+ .bss.sSyncManInPar
+                0x3000bcb4       0x44 ./src/ethercat/beckhoff/Src/objdef.o
+                0x3000bcb4                sSyncManInPar
+ .bss.sSyncManOutPar
+                0x3000bcf8       0x44 ./src/ethercat/beckhoff/Src/objdef.o
+                0x3000bcf8                sSyncManOutPar
+ .bss.aSdoInfoHeader
+                0x3000bd3c        0xe ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd3c                aSdoInfoHeader
+ .bss.bSdoInWork
+                0x3000bd4a        0x1 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd4a                bSdoInWork
+ .bss.bSdoSegAccess
+                0x3000bd4b        0x1 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd4b                bSdoSegAccess
+ .bss.bSdoSegFollows
+                0x3000bd4c        0x1 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd4c                bSdoSegFollows
+ .bss.bSdoSegLastToggle
+                0x3000bd4d        0x1 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd4d                bSdoSegLastToggle
+ .bss.bStoreCompleteAccess
+                0x3000bd4e        0x1 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd4e                bStoreCompleteAccess
+ *fill*         0x3000bd4f        0x1 
+ .bss.nSdoInfoFragmentsLeft
+                0x3000bd50        0x2 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd50                nSdoInfoFragmentsLeft
+ .bss.nSdoInfoIndex
+                0x3000bd52        0x2 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd52                nSdoInfoIndex
+ .bss.nSdoSegBytesToHandle
+                0x3000bd54        0x4 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd54                nSdoSegBytesToHandle
+ .bss.nSdoSegCompleteSize
+                0x3000bd58        0x4 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd58                nSdoSegCompleteSize
+ .bss.nSdoSegIndex
+                0x3000bd5c        0x2 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd5c                nSdoSegIndex
+ .bss.nSdoSegService
+                0x3000bd5e        0x1 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd5e                nSdoSegService
+ .bss.nSdoSegSubindex
+                0x3000bd5f        0x1 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd5f                nSdoSegSubindex
+ .bss.pSdoInfoObjEntry
+                0x3000bd60        0x4 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd60                pSdoInfoObjEntry
+ .bss.pSdoPendFunc
+                0x3000bd64        0x4 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd64                pSdoPendFunc
+ .bss.pSdoResStored
+                0x3000bd68        0x4 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd68                pSdoResStored
+ .bss.pSdoSegData
+                0x3000bd6c        0x4 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd6c                pSdoSegData
+ .bss.pSdoSegObjEntry
+                0x3000bd70        0x4 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd70                pSdoSegObjEntry
+ .bss.pStoreData
+                0x3000bd74        0x4 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd74                pStoreData
+ .bss.u16StoreIndex
+                0x3000bd78        0x2 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd78                u16StoreIndex
+ *fill*         0x3000bd7a        0x2 
+ .bss.u32StoreDataSize
+                0x3000bd7c        0x4 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd7c                u32StoreDataSize
+ .bss.u8PendingSdo
+                0x3000bd80        0x1 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd80                u8PendingSdo
+ .bss.u8StoreSubindex
+                0x3000bd81        0x1 ./src/ethercat/beckhoff/Src/sdoserv.o
+                0x3000bd81                u8StoreSubindex
+ *fill*         0x3000bd82        0x2 
+ .bss.g_ether_phy0_ctrl
+                0x3000bd84       0x10 ./rzn_gen/common_data.o
+                0x3000bd84                g_ether_phy0_ctrl
+ .bss.g_ether_phy1_ctrl
+                0x3000bd94       0x10 ./rzn_gen/common_data.o
+                0x3000bd94                g_ether_phy1_ctrl
+ .bss.g_ether_selector0_ctrl
+                0x3000bda4        0xc ./rzn_gen/common_data.o
+                0x3000bda4                g_ether_selector0_ctrl
+ .bss.g_ether_selector1_ctrl
+                0x3000bdb0        0xc ./rzn_gen/common_data.o
+                0x3000bdb0                g_ether_selector1_ctrl
+ .bss.g_ethercat_ssc_port0_ctrl
+                0x3000bdbc       0x10 ./rzn_gen/common_data.o
+                0x3000bdbc                g_ethercat_ssc_port0_ctrl
+ .bss.g_ioport_ctrl
+                0x3000bdcc        0xc ./rzn_gen/common_data.o
+                0x3000bdcc                g_ioport_ctrl
+ .bss.g_timer0_ctrl
+                0x3000bdd8       0x1c ./rzn_gen/common_data.o
+                0x3000bdd8                g_timer0_ctrl
+ .bss.g_qspi0_ctrl
+                0x3000bdf4       0x18 ./rzn_gen/hal_data.o
+                0x3000bdf4                g_qspi0_ctrl
+ .bss.BaseTime  0x3000be0c        0x2 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ *fill*         0x3000be0e        0x2 
+ .bss.pEsc      0x3000be10        0x4 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                0x3000be10                pEsc
+ .bss.g_ether_selector_state_initialized.0
+                0x3000be14        0x1 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .bss.g_ether_phy_state_initialized.0
+                0x3000be15        0x1 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ *fill*         0x3000be16        0x2 
+ .bss.g_protect_port_counter
+                0x3000be18        0x4 ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+                0x3000be18                g_protect_port_counter
+ .bss.current_heap_end.0
+                0x3000be1c        0x4 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss.__malloc_free_list
+                0x3000be20        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+                0x3000be20                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x3000be24        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+                0x3000be24                __malloc_sbrk_start
+ .bss.errno     0x3000be28        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-reent.o)
+                0x3000be28                errno
+ .bss.__lock___malloc_recursive_mutex
+                0x3000be2c        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+                0x3000be2c                __lock___malloc_recursive_mutex
+ *(COMMON)
+                0x3000be30                . = ALIGN (0x4)
+ *fill*         0x3000be2d        0x3 
+                0x3000be30                __bss_end__ = .
+                0x3000be30                _ebss = .
+                0x3000be30                _end = .
+
+.heap           0x3000be30     0x2000 load address 0x6020e1e0
+                0x3000be30                . = ALIGN (0x8)
+                0x3000be30                __HeapBase = .
+ *(.heap)
+ .heap          0x3000be30     0x2000 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x3000de30                __HeapLimit = .
+
+.thread_stack   0x3000de30        0x0
+                0x3000de30                . = ALIGN (0x8)
+                0x3000de30                __ThreadStackBase = .
+ *(.stack*)
+                0x3000de30                __ThreadStackLimit = .
+
+.sys_stack      0x00104310      0x400 load address 0x60202370
+                0x00104310                . = ALIGN (0x8)
+                0x00104310                __SysStackBase = .
+ *(.sys_stack)
+ .sys_stack     0x00104310      0x400 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00104710                __SysStackLimit = .
+
+.svc_stack      0x00104710      0x400 load address 0x60202770
+                0x00104710                . = ALIGN (0x8)
+                0x00104710                __SvcStackBase = .
+ *(.svc_stack)
+ .svc_stack     0x00104710      0x400 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00104b10                __SvcStackLimit = .
+
+.irq_stack      0x00104b10      0x400 load address 0x60202b70
+                0x00104b10                . = ALIGN (0x8)
+                0x00104b10                __IrqStackBase = .
+ *(.irq_stack)
+ .irq_stack     0x00104b10      0x400 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00104f10                __IrqStackLimit = .
+
+.fiq_stack      0x00104f10      0x400 load address 0x60202f70
+                0x00104f10                . = ALIGN (0x8)
+                0x00104f10                __FiqStackBase = .
+ *(.fiq_stack)
+ .fiq_stack     0x00104f10      0x400 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00105310                __FiqStackLimit = .
+
+.und_stack      0x00105310      0x400 load address 0x60203370
+                0x00105310                . = ALIGN (0x8)
+                0x00105310                __UndStackBase = .
+ *(.und_stack)
+ .und_stack     0x00105310      0x400 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00105710                __UndStackLimit = .
+
+.abt_stack      0x00105710      0x400 load address 0x60203770
+                0x00105710                . = ALIGN (0x8)
+                0x00105710                __AbtStackBase = .
+ *(.abt_stack)
+ .abt_stack     0x00105710      0x400 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00105b10                __AbtStackLimit = .
+
+.shared_noncache_buffer
+                0x300c0000        0x0
+                0x300c0000                . = ALIGN (0x20)
+                0x300c0000                _sncbuffer_start = .
+ *(.shared_noncache_buffer*)
+                0x300c0000                _sncbuffer_end = .
+
+.noncache_buffer
+                0x30100000        0x0
+                0x30100000                . = ALIGN (0x20)
+                0x30100000                _ncbuffer_start = .
+ *(.noncache_buffer*)
+                0x30100000                _ncbuffer_end = .
+OUTPUT(RZN2L_esc_RSK.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000    0x61a6b
+ .debug_info    0x00000000      0x774 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .debug_info    0x00000774     0x273a ./src/r_fw_up_rz/r_fw_up_rz.o
+ .debug_info    0x00002eae     0x2336 ./src/ethercat/renesas/sampleappl.o
+ .debug_info    0x000051e4      0x3cd ./src/ethercat/renesas/samplefoe.o
+ .debug_info    0x000055b1      0x6fe ./src/ethercat/renesas/sampleios.o
+ .debug_info    0x00005caf     0x1f0a ./src/ethercat/beckhoff/Src/bootmode.o
+ .debug_info    0x00007bb9     0x116d ./src/ethercat/beckhoff/Src/coeappl.o
+ .debug_info    0x00008d26      0xfd8 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .debug_info    0x00009cfe      0x52f ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .debug_info    0x0000a22d      0x545 ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .debug_info    0x0000a772     0x1d1e ./src/ethercat/beckhoff/Src/ecatslv.o
+ .debug_info    0x0000c490      0x429 ./src/ethercat/beckhoff/Src/foeappl.o
+ .debug_info    0x0000c8b9      0xedb ./src/ethercat/beckhoff/Src/mailbox.o
+ .debug_info    0x0000d794     0x1553 ./src/ethercat/beckhoff/Src/objdef.o
+ .debug_info    0x0000ece7     0x13da ./src/ethercat/beckhoff/Src/sdoserv.o
+ .debug_info    0x000100c1     0x2e0d ./src/hal_entry.o
+ .debug_info    0x00012ece     0x5979 ./rzn_gen/common_data.o
+ .debug_info    0x00018847     0x437e ./rzn_gen/hal_data.o
+ .debug_info    0x0001cbc5       0xb8 ./rzn_gen/main.o
+ .debug_info    0x0001cc7d     0x1cd9 ./rzn_gen/pin_data.o
+ .debug_info    0x0001e956       0xba ./rzn_gen/vector_data.o
+ .debug_info    0x0001ea10     0xc5ab ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .debug_info    0x0002afbb     0x382d ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .debug_info    0x0002e7e8     0x5422 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_info    0x00033c0a     0x34f1 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .debug_info    0x000370fb     0x1ccc ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .debug_info    0x00038dc7    0x20ea9 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .debug_info    0x00059c70     0x3125 ./rzn/fsp/src/r_cmt/r_cmt.o
+ .debug_info    0x0005cd95       0xbd ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+ .debug_info    0x0005ce52     0x1304 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_info    0x0005e156      0x90e ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_info    0x0005ea64      0x1ed ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_info    0x0005ec51       0xb1 ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_info    0x0005ed02      0x48d ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_info    0x0005f18f      0x2c0 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_info    0x0005f44f      0xf8f ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .debug_info    0x000603de      0x149 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_info    0x00060527      0x1ef ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_info    0x00060716     0x1355 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_abbrev   0x00000000     0x6729
+ .debug_abbrev  0x00000000      0x293 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .debug_abbrev  0x00000293      0x384 ./src/r_fw_up_rz/r_fw_up_rz.o
+ .debug_abbrev  0x00000617      0x432 ./src/ethercat/renesas/sampleappl.o
+ .debug_abbrev  0x00000a49      0x13c ./src/ethercat/renesas/samplefoe.o
+ .debug_abbrev  0x00000b85       0xd3 ./src/ethercat/renesas/sampleios.o
+ .debug_abbrev  0x00000c58      0x3fa ./src/ethercat/beckhoff/Src/bootmode.o
+ .debug_abbrev  0x00001052      0x325 ./src/ethercat/beckhoff/Src/coeappl.o
+ .debug_abbrev  0x00001377      0x355 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .debug_abbrev  0x000016cc      0x1e8 ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .debug_abbrev  0x000018b4      0x214 ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .debug_abbrev  0x00001ac8      0x377 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .debug_abbrev  0x00001e3f      0x181 ./src/ethercat/beckhoff/Src/foeappl.o
+ .debug_abbrev  0x00001fc0      0x33d ./src/ethercat/beckhoff/Src/mailbox.o
+ .debug_abbrev  0x000022fd      0x34a ./src/ethercat/beckhoff/Src/objdef.o
+ .debug_abbrev  0x00002647      0x342 ./src/ethercat/beckhoff/Src/sdoserv.o
+ .debug_abbrev  0x00002989      0x2d4 ./src/hal_entry.o
+ .debug_abbrev  0x00002c5d      0x274 ./rzn_gen/common_data.o
+ .debug_abbrev  0x00002ed1      0x2d6 ./rzn_gen/hal_data.o
+ .debug_abbrev  0x000031a7       0x66 ./rzn_gen/main.o
+ .debug_abbrev  0x0000320d      0x13e ./rzn_gen/pin_data.o
+ .debug_abbrev  0x0000334b       0x71 ./rzn_gen/vector_data.o
+ .debug_abbrev  0x000033bc      0x6f4 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .debug_abbrev  0x00003ab0      0x4a4 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .debug_abbrev  0x00003f54      0x604 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_abbrev  0x00004558      0x4a6 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .debug_abbrev  0x000049fe      0x3c6 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .debug_abbrev  0x00004dc4      0x483 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .debug_abbrev  0x00005247      0x5c1 ./rzn/fsp/src/r_cmt/r_cmt.o
+ .debug_abbrev  0x00005808       0x61 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+ .debug_abbrev  0x00005869      0x23e ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_abbrev  0x00005aa7      0x1e3 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_abbrev  0x00005c8a      0x11e ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_abbrev  0x00005da8       0x5e ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_abbrev  0x00005e06      0x195 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_abbrev  0x00005f9b      0x12b ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_abbrev  0x000060c6      0x1bf ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .debug_abbrev  0x00006285       0xcc ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_abbrev  0x00006351       0xc5 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_abbrev  0x00006416      0x313 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_loc      0x00000000    0x13f0c
+ .debug_loc     0x00000000      0x595 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .debug_loc     0x00000595      0x622 ./src/r_fw_up_rz/r_fw_up_rz.o
+ .debug_loc     0x00000bb7      0xa97 ./src/ethercat/renesas/sampleappl.o
+ .debug_loc     0x0000164e      0x3a7 ./src/ethercat/renesas/samplefoe.o
+ .debug_loc     0x000019f5      0x3e8 ./src/ethercat/beckhoff/Src/bootmode.o
+ .debug_loc     0x00001ddd      0x608 ./src/ethercat/beckhoff/Src/coeappl.o
+ .debug_loc     0x000023e5      0xcd0 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .debug_loc     0x000030b5      0x130 ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .debug_loc     0x000031e5      0x474 ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .debug_loc     0x00003659     0x2128 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .debug_loc     0x00005781      0x420 ./src/ethercat/beckhoff/Src/foeappl.o
+ .debug_loc     0x00005ba1      0x8ed ./src/ethercat/beckhoff/Src/mailbox.o
+ .debug_loc     0x0000648e     0x26fb ./src/ethercat/beckhoff/Src/objdef.o
+ .debug_loc     0x00008b89     0x17b1 ./src/ethercat/beckhoff/Src/sdoserv.o
+ .debug_loc     0x0000a33a       0x25 ./src/hal_entry.o
+ .debug_loc     0x0000a35f     0x1d8c ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .debug_loc     0x0000c0eb      0xd96 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .debug_loc     0x0000ce81     0x231a ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_loc     0x0000f19b     0x1516 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .debug_loc     0x000106b1      0x4e5 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .debug_loc     0x00010b96     0x1d5a ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .debug_loc     0x000128f0      0xeeb ./rzn/fsp/src/r_cmt/r_cmt.o
+ .debug_loc     0x000137db      0x132 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_loc     0x0001390d       0x44 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_loc     0x00013951      0x20d ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_loc     0x00013b5e      0x101 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_loc     0x00013c5f       0xb4 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .debug_loc     0x00013d13       0xca ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_loc     0x00013ddd      0x12f ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_aranges  0x00000000      0xb68
+ .debug_aranges
+                0x00000000       0x40 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .debug_aranges
+                0x00000040       0x38 ./src/r_fw_up_rz/r_fw_up_rz.o
+ .debug_aranges
+                0x00000078       0x68 ./src/ethercat/renesas/sampleappl.o
+ .debug_aranges
+                0x000000e0       0x38 ./src/ethercat/renesas/samplefoe.o
+ .debug_aranges
+                0x00000118       0x18 ./src/ethercat/renesas/sampleios.o
+ .debug_aranges
+                0x00000130       0x60 ./src/ethercat/beckhoff/Src/bootmode.o
+ .debug_aranges
+                0x00000190       0x70 ./src/ethercat/beckhoff/Src/coeappl.o
+ .debug_aranges
+                0x00000200       0x90 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .debug_aranges
+                0x00000290       0x30 ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .debug_aranges
+                0x000002c0       0x30 ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .debug_aranges
+                0x000002f0       0xc8 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .debug_aranges
+                0x000003b8       0x48 ./src/ethercat/beckhoff/Src/foeappl.o
+ .debug_aranges
+                0x00000400       0x88 ./src/ethercat/beckhoff/Src/mailbox.o
+ .debug_aranges
+                0x00000488       0x78 ./src/ethercat/beckhoff/Src/objdef.o
+ .debug_aranges
+                0x00000500       0x40 ./src/ethercat/beckhoff/Src/sdoserv.o
+ .debug_aranges
+                0x00000540       0x30 ./src/hal_entry.o
+ .debug_aranges
+                0x00000570       0x20 ./rzn_gen/common_data.o
+ .debug_aranges
+                0x00000590       0x20 ./rzn_gen/hal_data.o
+ .debug_aranges
+                0x000005b0       0x20 ./rzn_gen/main.o
+ .debug_aranges
+                0x000005d0       0x18 ./rzn_gen/pin_data.o
+ .debug_aranges
+                0x000005e8       0x18 ./rzn_gen/vector_data.o
+ .debug_aranges
+                0x00000600       0x98 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .debug_aranges
+                0x00000698       0x90 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .debug_aranges
+                0x00000728       0x88 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_aranges
+                0x000007b0       0x90 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .debug_aranges
+                0x00000840       0x38 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .debug_aranges
+                0x00000878       0x60 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .debug_aranges
+                0x000008d8       0x88 ./rzn/fsp/src/r_cmt/r_cmt.o
+ .debug_aranges
+                0x00000960       0x18 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+ .debug_aranges
+                0x00000978       0x30 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_aranges
+                0x000009a8       0x30 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_aranges
+                0x000009d8       0x28 ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_aranges
+                0x00000a00       0x18 ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_aranges
+                0x00000a18       0x28 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_aranges
+                0x00000a40       0x28 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_aranges
+                0x00000a68       0x40 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .debug_aranges
+                0x00000aa8       0x20 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_aranges
+                0x00000ac8       0x50 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_aranges
+                0x00000b18       0x50 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_ranges   0x00000000     0x3680
+ .debug_ranges  0x00000000       0x48 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .debug_ranges  0x00000048       0xf8 ./src/r_fw_up_rz/r_fw_up_rz.o
+ .debug_ranges  0x00000140      0x1c8 ./src/ethercat/renesas/sampleappl.o
+ .debug_ranges  0x00000308       0x28 ./src/ethercat/renesas/samplefoe.o
+ .debug_ranges  0x00000330       0x90 ./src/ethercat/beckhoff/Src/bootmode.o
+ .debug_ranges  0x000003c0      0x190 ./src/ethercat/beckhoff/Src/coeappl.o
+ .debug_ranges  0x00000550      0x2a8 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .debug_ranges  0x000007f8       0x20 ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .debug_ranges  0x00000818       0xb8 ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .debug_ranges  0x000008d0      0x3f8 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .debug_ranges  0x00000cc8       0x60 ./src/ethercat/beckhoff/Src/foeappl.o
+ .debug_ranges  0x00000d28      0x338 ./src/ethercat/beckhoff/Src/mailbox.o
+ .debug_ranges  0x00001060      0x660 ./src/ethercat/beckhoff/Src/objdef.o
+ .debug_ranges  0x000016c0      0x2f0 ./src/ethercat/beckhoff/Src/sdoserv.o
+ .debug_ranges  0x000019b0       0x20 ./src/hal_entry.o
+ .debug_ranges  0x000019d0       0x10 ./rzn_gen/common_data.o
+ .debug_ranges  0x000019e0       0x10 ./rzn_gen/hal_data.o
+ .debug_ranges  0x000019f0       0x10 ./rzn_gen/main.o
+ .debug_ranges  0x00001a00      0x848 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .debug_ranges  0x00002248      0x180 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .debug_ranges  0x000023c8      0x870 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_ranges  0x00002c38      0x258 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .debug_ranges  0x00002e90       0xb8 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .debug_ranges  0x00002f48      0x350 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .debug_ranges  0x00003298      0x230 ./rzn/fsp/src/r_cmt/r_cmt.o
+ .debug_ranges  0x000034c8       0x78 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_ranges  0x00003540       0x20 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_ranges  0x00003560       0x18 ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_ranges  0x00003578       0x18 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_ranges  0x00003590       0x18 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_ranges  0x000035a8       0x30 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .debug_ranges  0x000035d8       0x10 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_ranges  0x000035e8       0x40 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_ranges  0x00003628       0x58 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_line     0x00000000    0x177f9
+ .debug_line    0x00000000      0xa8e ./src/r_fw_up_rz/r_fw_up_buf.o
+ .debug_line    0x00000a8e      0x8c5 ./src/r_fw_up_rz/r_fw_up_rz.o
+ .debug_line    0x00001353      0xd2b ./src/ethercat/renesas/sampleappl.o
+ .debug_line    0x0000207e      0x32c ./src/ethercat/renesas/samplefoe.o
+ .debug_line    0x000023aa      0x1b0 ./src/ethercat/renesas/sampleios.o
+ .debug_line    0x0000255a      0xa0c ./src/ethercat/beckhoff/Src/bootmode.o
+ .debug_line    0x00002f66      0x947 ./src/ethercat/beckhoff/Src/coeappl.o
+ .debug_line    0x000038ad     0x120d ./src/ethercat/beckhoff/Src/ecatappl.o
+ .debug_line    0x00004aba      0x1ac ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .debug_line    0x00004c66      0x57f ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .debug_line    0x000051e5     0x2965 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .debug_line    0x00007b4a      0x1d9 ./src/ethercat/beckhoff/Src/foeappl.o
+ .debug_line    0x00007d23      0xf65 ./src/ethercat/beckhoff/Src/mailbox.o
+ .debug_line    0x00008c88     0x1761 ./src/ethercat/beckhoff/Src/objdef.o
+ .debug_line    0x0000a3e9     0x12e4 ./src/ethercat/beckhoff/Src/sdoserv.o
+ .debug_line    0x0000b6cd      0x763 ./src/hal_entry.o
+ .debug_line    0x0000be30      0x5a8 ./rzn_gen/common_data.o
+ .debug_line    0x0000c3d8      0x4b8 ./rzn_gen/hal_data.o
+ .debug_line    0x0000c890       0x5f ./rzn_gen/main.o
+ .debug_line    0x0000c8ef      0x2a5 ./rzn_gen/pin_data.o
+ .debug_line    0x0000cb94       0xbd ./rzn_gen/vector_data.o
+ .debug_line    0x0000cc51     0x19b2 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .debug_line    0x0000e603      0xe6f ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .debug_line    0x0000f472     0x1ef1 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_line    0x00011363     0x1423 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .debug_line    0x00012786      0x905 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .debug_line    0x0001308b     0x1320 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .debug_line    0x000143ab      0xdaf ./rzn/fsp/src/r_cmt/r_cmt.o
+ .debug_line    0x0001515a      0x124 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+ .debug_line    0x0001527e      0x6b1 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_line    0x0001592f      0x2b6 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_line    0x00015be5      0x318 ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_line    0x00015efd      0x1a1 ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_line    0x0001609e      0x444 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_line    0x000164e2      0x338 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_line    0x0001681a      0x35d ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .debug_line    0x00016b77      0x1a9 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_line    0x00016d20      0x2da ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_line    0x00016ffa      0x7ff ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_str      0x00000000    0x1f171
+ .debug_str     0x00000000      0x5c7 ./src/r_fw_up_rz/r_fw_up_buf.o
+                                0x662 (size before relaxing)
+ .debug_str     0x000005c7     0x2722 ./src/r_fw_up_rz/r_fw_up_rz.o
+                               0x2b9e (size before relaxing)
+ .debug_str     0x00002ce9     0x18fe ./src/ethercat/renesas/sampleappl.o
+                               0x1bd4 (size before relaxing)
+ .debug_str     0x000045e7      0x12a ./src/ethercat/renesas/samplefoe.o
+                                0x335 (size before relaxing)
+ .debug_str     0x00004711       0x4b ./src/ethercat/renesas/sampleios.o
+                               0x135a (size before relaxing)
+ .debug_str     0x0000475c      0x268 ./src/ethercat/beckhoff/Src/bootmode.o
+                               0x1626 (size before relaxing)
+ .debug_str     0x000049c4      0x6d9 ./src/ethercat/beckhoff/Src/coeappl.o
+                                0xa97 (size before relaxing)
+ .debug_str     0x0000509d      0x5c3 ./src/ethercat/beckhoff/Src/ecatappl.o
+                                0xa70 (size before relaxing)
+ .debug_str     0x00005660      0x181 ./src/ethercat/beckhoff/Src/ecatcoe.o
+                                0x418 (size before relaxing)
+ .debug_str     0x000057e1      0x18e ./src/ethercat/beckhoff/Src/ecatfoe.o
+                                0x40b (size before relaxing)
+ .debug_str     0x0000596f      0x4ca ./src/ethercat/beckhoff/Src/ecatslv.o
+                                0xc99 (size before relaxing)
+ .debug_str     0x00005e39       0x41 ./src/ethercat/beckhoff/Src/foeappl.o
+                                0x31d (size before relaxing)
+ .debug_str     0x00005e7a      0x1ad ./src/ethercat/beckhoff/Src/mailbox.o
+                                0x692 (size before relaxing)
+ .debug_str     0x00006027      0x1fe ./src/ethercat/beckhoff/Src/objdef.o
+                                0x799 (size before relaxing)
+ .debug_str     0x00006225      0x276 ./src/ethercat/beckhoff/Src/sdoserv.o
+                                0x8a6 (size before relaxing)
+ .debug_str     0x0000649b      0xc20 ./src/hal_entry.o
+                               0x4399 (size before relaxing)
+ .debug_str     0x000070bb     0x2a88 ./rzn_gen/common_data.o
+                               0x5ff2 (size before relaxing)
+ .debug_str     0x00009b43     0x16dc ./rzn_gen/hal_data.o
+                               0x5345 (size before relaxing)
+ .debug_str     0x0000b21f       0x17 ./rzn_gen/main.o
+                                0x227 (size before relaxing)
+ .debug_str     0x0000b236     0x647d ./rzn_gen/pin_data.o
+                               0x7b7b (size before relaxing)
+ .debug_str     0x000116b3       0x35 ./rzn_gen/vector_data.o
+                                0x235 (size before relaxing)
+ .debug_str     0x000116e8     0x29a0 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+                               0x8252 (size before relaxing)
+ .debug_str     0x00014088      0x232 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+                               0x362b (size before relaxing)
+ .debug_str     0x000142ba      0x485 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+                               0x46de (size before relaxing)
+ .debug_str     0x0001473f      0x300 ./rzn/fsp/src/r_ioport/r_ioport.o
+                               0x35f8 (size before relaxing)
+ .debug_str     0x00014a3f      0x166 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+                               0x2494 (size before relaxing)
+ .debug_str     0x00014ba5     0x977b ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+                              0x10285 (size before relaxing)
+ .debug_str     0x0001e320      0x41b ./rzn/fsp/src/r_cmt/r_cmt.o
+                               0x2d67 (size before relaxing)
+ .debug_str     0x0001e73b       0x45 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+                                0x259 (size before relaxing)
+ .debug_str     0x0001e780       0xf0 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+                                0x90a (size before relaxing)
+ .debug_str     0x0001e870       0xdb ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+                               0x185d (size before relaxing)
+ .debug_str     0x0001e94b       0xc7 ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+                                0x360 (size before relaxing)
+ .debug_str     0x0001ea12       0x24 ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+                                0x24f (size before relaxing)
+ .debug_str     0x0001ea36       0xea ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+                                0x491 (size before relaxing)
+ .debug_str     0x0001eb20       0x89 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                                0x3a7 (size before relaxing)
+ .debug_str     0x0001eba9       0xaf ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+                                0xa13 (size before relaxing)
+ .debug_str     0x0001ec58       0x97 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+                                0x2b1 (size before relaxing)
+ .debug_str     0x0001ecef       0xe1 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                                0x34f (size before relaxing)
+ .debug_str     0x0001edd0      0x3a1 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                                0xb3b (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 ./src/r_fw_up_rz/r_fw_up_buf.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a ./src/r_fw_up_rz/r_fw_up_rz.o
+ .comment       0x00000049       0x4a ./src/ethercat/renesas/sampleappl.o
+ .comment       0x00000049       0x4a ./src/ethercat/renesas/samplefoe.o
+ .comment       0x00000049       0x4a ./src/ethercat/renesas/sampleios.o
+ .comment       0x00000049       0x4a ./src/ethercat/beckhoff/Src/bootmode.o
+ .comment       0x00000049       0x4a ./src/ethercat/beckhoff/Src/coeappl.o
+ .comment       0x00000049       0x4a ./src/ethercat/beckhoff/Src/ecatappl.o
+ .comment       0x00000049       0x4a ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .comment       0x00000049       0x4a ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .comment       0x00000049       0x4a ./src/ethercat/beckhoff/Src/ecatslv.o
+ .comment       0x00000049       0x4a ./src/ethercat/beckhoff/Src/foeappl.o
+ .comment       0x00000049       0x4a ./src/ethercat/beckhoff/Src/mailbox.o
+ .comment       0x00000049       0x4a ./src/ethercat/beckhoff/Src/objdef.o
+ .comment       0x00000049       0x4a ./src/ethercat/beckhoff/Src/sdoserv.o
+ .comment       0x00000049       0x4a ./src/hal_entry.o
+ .comment       0x00000049       0x4a ./rzn_gen/common_data.o
+ .comment       0x00000049       0x4a ./rzn_gen/hal_data.o
+ .comment       0x00000049       0x4a ./rzn_gen/main.o
+ .comment       0x00000049       0x4a ./rzn_gen/pin_data.o
+ .comment       0x00000049       0x4a ./rzn_gen/vector_data.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/r_ioport/r_ioport.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/r_cmt/r_cmt.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .comment       0x00000049       0x4a ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.ARM.attributes
+                0x00000000       0x37
+ .ARM.attributes
+                0x00000000       0x39 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .ARM.attributes
+                0x00000039       0x39 ./src/r_fw_up_rz/r_fw_up_rz.o
+ .ARM.attributes
+                0x00000072       0x39 ./src/ethercat/renesas/sampleappl.o
+ .ARM.attributes
+                0x000000ab       0x39 ./src/ethercat/renesas/samplefoe.o
+ .ARM.attributes
+                0x000000e4       0x39 ./src/ethercat/renesas/sampleios.o
+ .ARM.attributes
+                0x0000011d       0x39 ./src/ethercat/beckhoff/Src/bootmode.o
+ .ARM.attributes
+                0x00000156       0x39 ./src/ethercat/beckhoff/Src/coeappl.o
+ .ARM.attributes
+                0x0000018f       0x39 ./src/ethercat/beckhoff/Src/ecatappl.o
+ .ARM.attributes
+                0x000001c8       0x39 ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .ARM.attributes
+                0x00000201       0x39 ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .ARM.attributes
+                0x0000023a       0x39 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .ARM.attributes
+                0x00000273       0x39 ./src/ethercat/beckhoff/Src/foeappl.o
+ .ARM.attributes
+                0x000002ac       0x39 ./src/ethercat/beckhoff/Src/mailbox.o
+ .ARM.attributes
+                0x000002e5       0x39 ./src/ethercat/beckhoff/Src/objdef.o
+ .ARM.attributes
+                0x0000031e       0x39 ./src/ethercat/beckhoff/Src/sdoserv.o
+ .ARM.attributes
+                0x00000357       0x39 ./src/hal_entry.o
+ .ARM.attributes
+                0x00000390       0x39 ./rzn_gen/common_data.o
+ .ARM.attributes
+                0x000003c9       0x39 ./rzn_gen/hal_data.o
+ .ARM.attributes
+                0x00000402       0x39 ./rzn_gen/main.o
+ .ARM.attributes
+                0x0000043b       0x39 ./rzn_gen/pin_data.o
+ .ARM.attributes
+                0x00000474       0x39 ./rzn_gen/vector_data.o
+ .ARM.attributes
+                0x000004ad       0x39 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .ARM.attributes
+                0x000004e6       0x39 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .ARM.attributes
+                0x0000051f       0x39 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .ARM.attributes
+                0x00000558       0x39 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .ARM.attributes
+                0x00000591       0x39 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .ARM.attributes
+                0x000005ca       0x39 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .ARM.attributes
+                0x00000603       0x39 ./rzn/fsp/src/r_cmt/r_cmt.o
+ .ARM.attributes
+                0x0000063c       0x39 ./rzn/fsp/src/bsp/mcu/rzn2l/bsp_loader_param2.o
+ .ARM.attributes
+                0x00000675       0x39 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .ARM.attributes
+                0x000006ae       0x39 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .ARM.attributes
+                0x000006e7       0x39 ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .ARM.attributes
+                0x00000720       0x39 ./rzn/fsp/src/bsp/mcu/all/bsp_io.o
+ .ARM.attributes
+                0x00000759       0x39 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .ARM.attributes
+                0x00000792       0x39 ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .ARM.attributes
+                0x000007cb       0x39 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .ARM.attributes
+                0x00000804       0x39 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .ARM.attributes
+                0x0000083d       0x39 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .ARM.attributes
+                0x00000876       0x39 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .ARM.attributes
+                0x000008af       0x19 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000008c8       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000008f5       0x19 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000090e       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000093b       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000968       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000995       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000009c2       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000009ef       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000a1c       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000a49       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000a76       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000aa3       0x17 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000aba       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000ae7       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000b14       0x2d c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
+
+.debug_frame    0x00000000     0x2194
+ .debug_frame   0x00000000       0xb4 ./src/r_fw_up_rz/r_fw_up_buf.o
+ .debug_frame   0x000000b4       0x9c ./src/r_fw_up_rz/r_fw_up_rz.o
+ .debug_frame   0x00000150      0x13c ./src/ethercat/renesas/sampleappl.o
+ .debug_frame   0x0000028c       0x9c ./src/ethercat/renesas/samplefoe.o
+ .debug_frame   0x00000328       0xe4 ./src/ethercat/beckhoff/Src/bootmode.o
+ .debug_frame   0x0000040c      0x13c ./src/ethercat/beckhoff/Src/coeappl.o
+ .debug_frame   0x00000548      0x22c ./src/ethercat/beckhoff/Src/ecatappl.o
+ .debug_frame   0x00000774       0x4c ./src/ethercat/beckhoff/Src/ecatcoe.o
+ .debug_frame   0x000007c0       0x70 ./src/ethercat/beckhoff/Src/ecatfoe.o
+ .debug_frame   0x00000830      0x314 ./src/ethercat/beckhoff/Src/ecatslv.o
+ .debug_frame   0x00000b44       0xb4 ./src/ethercat/beckhoff/Src/foeappl.o
+ .debug_frame   0x00000bf8      0x1f8 ./src/ethercat/beckhoff/Src/mailbox.o
+ .debug_frame   0x00000df0      0x1d4 ./src/ethercat/beckhoff/Src/objdef.o
+ .debug_frame   0x00000fc4       0xdc ./src/ethercat/beckhoff/Src/sdoserv.o
+ .debug_frame   0x000010a0       0x54 ./src/hal_entry.o
+ .debug_frame   0x000010f4       0x20 ./rzn_gen/common_data.o
+ .debug_frame   0x00001114       0x20 ./rzn_gen/hal_data.o
+ .debug_frame   0x00001134       0x28 ./rzn_gen/main.o
+ .debug_frame   0x0000115c      0x1b0 ./rzn/fsp/src/rm_ethercat_ssc_port/rm_ethercat_ssc_port.o
+ .debug_frame   0x0000130c      0x1b8 ./rzn/fsp/src/r_xspi_qspi/r_xspi_qspi.o
+ .debug_frame   0x000014c4      0x198 ./rzn/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_frame   0x0000165c      0x1a0 ./rzn/fsp/src/r_ioport/r_ioport.o
+ .debug_frame   0x000017fc       0x90 ./rzn/fsp/src/r_ether_selector/r_ether_selector.o
+ .debug_frame   0x0000188c      0x140 ./rzn/fsp/src/r_ether_phy/r_ether_phy.o
+ .debug_frame   0x000019cc      0x178 ./rzn/fsp/src/r_cmt/r_cmt.o
+ .debug_frame   0x00001b44       0x60 ./rzn/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_frame   0x00001ba4       0x40 ./rzn/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_frame   0x00001be4       0x50 ./rzn/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_frame   0x00001c34       0x40 ./rzn/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_frame   0x00001c74       0x3c ./rzn/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_frame   0x00001cb0       0x70 ./rzn/fsp/src/bsp/mcu/all/bsp_reset.o
+ .debug_frame   0x00001d20       0x28 ./rzn/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_frame   0x00001d48       0x80 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_frame   0x00001dc8       0xc0 ./rzn/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_frame   0x00001e88       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00001eb4       0x34 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00001ee8       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00001f08       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00001f38       0x28 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcmp.o)
+ .debug_frame   0x00001f60       0x28 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00001f88       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00001fa8       0x38 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00001fe0       0x4c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000202c       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00002058       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00002088       0x5c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x000020e4       0xb0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7+fp/hard\libg_nano.a(lib_a-lock.o)
